@@ -23,8 +23,10 @@ This is a collection of awesome articles about Transformers. If you want to read
 * Code : (https://github.com/SZUcsh/FAT-Net)
 ---
 
-### Object Detection
 
+### Image Classification
+
+### Object Detection
 
 
 ### Surveys
