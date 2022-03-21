@@ -1,7 +1,7 @@
 ### Awesome-Transformer
 This is a collection of awesome articles about Transformers. If you want to read the paper according to time, you can refer to [Date](https://github.com/moeinheidari/Awesome-Transformer/blob/main/Data.md).
 
-### Revolutionary Transformers 
+### Revolutionary Transformer Papers 
 
 * An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
 * [Link](https://arxiv.org/abs/2010.11929)
