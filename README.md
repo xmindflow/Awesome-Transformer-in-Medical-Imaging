@@ -1,6 +1,17 @@
 ### Awesome-Transformer
 This is a collection of awesome articles about Transformers. If you want to read the paper according to time, you can refer to [Date](https://github.com/moeinheidari/Awesome-Transformer/blob/main/Data.md).
 
+### Revolutionary Transformers 
+
+* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+* [Link](https://arxiv.org/abs/2010.11929)
+* Code : (https://github.com/google-research/vision_transformer)
+---
+* Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+* [Link](https://arxiv.org/abs/2103.14030)
+* Code : (https://github.com/microsoft/Swin-Transformer)
+---
+
 ### Medical Imaging
 
 * TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation
@@ -12,16 +23,8 @@ This is a collection of awesome articles about Transformers. If you want to read
 * Code : (https://github.com/SZUcsh/FAT-Net)
 ---
 
-### Revolutionary Transformers 
+### Object Detection
 
-* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
-* [Link](https://arxiv.org/abs/2010.11929)
-* Code : (https://github.com/google-research/vision_transformer)
----
-* Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
-* [Link](https://arxiv.org/abs/2103.14030)
-* Code : (https://github.com/microsoft/Swin-Transformer)
----
 
 
 ### Surveys
