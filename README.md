@@ -3,10 +3,13 @@ This is a collection of awesome articles about Transformers. If you want to read
 
 ### Revolutionary Transformer Papers 
 
-* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
-* [Link](https://arxiv.org/abs/2010.11929)
-* Code : (https://github.com/google-research/vision_transformer)
----
+
+**An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale** [22nd Oct., 2020] [ICLR, 2021].<br>
+*Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
+.*<br>
+ [[PDF](https://arxiv.org/pdf/2010.11929)] [[Github](https://github.com/google-research/vision_transformer)]
+
+
 * Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 * [Link](https://arxiv.org/abs/2103.14030)
 * Code : (https://github.com/microsoft/Swin-Transformer)
