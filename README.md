@@ -32,6 +32,6 @@ This is a collection of awesome articles about Transformers. If you want to read
 ---
 ### Surveys
 
-**Transformers in Medical Imaging: A Survey.** [19th Jan., 2022]<br>
+**Transformers in Medical Imaging: A Survey.** [24th Jan., 2022]<br>
 *Fahad Shamshad, Salman Khan, Syed Waqas Zamir, Muhammad Haris Khan, Munawar Hayat, Fahad Shahbaz Khan, Huazhu Fu.*<br>
  [[PDF](https://arxiv.org/abs/2201.09873)] [[Github](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]
