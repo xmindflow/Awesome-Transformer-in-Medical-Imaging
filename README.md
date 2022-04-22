@@ -26,6 +26,14 @@ This is a collection of awesome articles about Transformers. If you want to read
 ---
 ### Image Classification
 
+**Training data-efficient image transformers & distillation through attention.** [15th Jan., 2021] [ICML, 2021]<br>
+*Huisi Wu, Shihuai Chen, Guilian Chen, Wei Wang, Baiying Lei, Zhenkun Wen.*<br>
+ [[PDF](https://arxiv.org/pdf/2012.12877)] [[Github](https://github.com/facebookresearch/deit)]
+ 
+**CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification.** [22nd Aug., 2021] [ICCV, 2021]<br>
+*Chun-Fu Chen, Quanfu Fan, Rameswar Panda.*<br>
+ [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_CrossViT_Cross-Attention_Multi-Scale_Vision_Transformer_for_Image_Classification_ICCV_2021_paper.pdf)] [[Github](https://github.com/IBM/CrossViT)]
+ 
 ---
 ### Object Detection
 
