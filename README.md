@@ -93,6 +93,15 @@ This is a collection of awesome articles about Transformers. If you want to read
 **TransCT: Dual-path Transformer for Low Dose Computed Tomography.** [5th Jul., 2021 ] [MICCAI, 2021]<br>
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing.*<br>
  [[PDF](https://arxiv.org/pdf/2103.00634)] [[Github](https://github.com/zzc623/TransCT)]
+ 
+ **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** [8th jun., 2021] [MICCAI, 2021]<br>
+ *Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
+ [[PDF](https://arxiv.org/pdf/2106.04650)] [[Github]()]
+ 
+ **Eformer: Edge Enhancement based Transformer for Medical Image Denoising.** [9th Nov., 2021]<br>
+ *Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav.*<br>
+ [[PDF](https://arxiv.org/pdf/2109.08044)] [[Github]()]
+ 
 ---
 ### Surveys
 
