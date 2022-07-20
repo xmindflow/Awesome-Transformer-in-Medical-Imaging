@@ -88,6 +88,12 @@ This is a collection of awesome articles about Transformers. If you want to read
 ### Object Detection
 
 ---
+### Image Denoising
+
+**TransCT: Dual-path Transformer for Low Dose Computed Tomography.** [5th Jul., 2021 ] [MICCAI, 2021]<br>
+*Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing.*<br>
+ [[PDF](https://arxiv.org/pdf/2103.00634)] [[Github](https://github.com/zzc623/TransCT)]
+---
 ### Surveys
 
 **Transformers in Medical Imaging: A Survey.** [24th Jan., 2022]<br>
