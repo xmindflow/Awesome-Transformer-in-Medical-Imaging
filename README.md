@@ -102,6 +102,10 @@ This is a collection of awesome articles about Transformers. If you want to read
  *Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav.*<br>
  [[PDF](https://arxiv.org/pdf/2109.08044)] [[Github]()]
  
+ **Spatial adaptive and transformer fusion network (STFNet) for low‐count PET blind denoising with MRI.** [8th Nov., 2021] [Medical Physics]<br>
+ *Lipei Zhang,Zizheng Xiao,Chao Zhou,Jianmin Yuan,Qiang He,Yongfeng Yang,Xin Liu,Dong Liang, Hairong Zheng,Wei Fan,Xu Zhang,Zhanli Hu.*<br>
+  [[PDF](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.15368)] [[Github]()]
+
 ---
 ### Surveys
 
