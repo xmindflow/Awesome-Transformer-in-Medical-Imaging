@@ -94,17 +94,29 @@ This is a collection of awesome articles about Transformers. If you want to read
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing.*<br>
  [[PDF](https://arxiv.org/pdf/2103.00634)] [[Github](https://github.com/zzc623/TransCT)]
  
- **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** [8th jun., 2021] [MICCAI, 2021]<br>
- *Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
- [[PDF](https://arxiv.org/pdf/2106.04650)] [[Github]()]
- 
- **Eformer: Edge Enhancement based Transformer for Medical Image Denoising.** [9th Nov., 2021]<br>
- *Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav.*<br>
- [[PDF](https://arxiv.org/pdf/2109.08044)] [[Github]()]
- 
- **Spatial adaptive and transformer fusion network (STFNet) for low‐count PET blind denoising with MRI.** [8th Nov., 2021] [Medical Physics]<br>
- *Lipei Zhang,Zizheng Xiao,Chao Zhou,Jianmin Yuan,Qiang He,Yongfeng Yang,Xin Liu,Dong Liang, Hairong Zheng,Wei Fan,Xu Zhang,Zhanli Hu.*<br>
-  [[PDF](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.15368)] [[Github]()]
+**TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** [8th jun., 2021] [MICCAI, 2021]<br>
+*Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
+[[PDF](https://arxiv.org/pdf/2106.04650)] [[Github](https://github.com/wdayang/CTformer)]
+
+**Eformer: Edge Enhancement based Transformer for Medical Image Denoising.** [9th Nov., 2021]<br>
+*Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav.*<br>
+[[PDF](https://arxiv.org/pdf/2109.08044)] ~~[[Github]()]~~
+
+**Spatial adaptive and transformer fusion network (STFNet) for low‐count PET blind denoising with MRI.** [8th Nov., 2021] [Medical Physics]<br>
+*Lipei Zhang,Zizheng Xiao,Chao Zhou,Jianmin Yuan,Qiang He,Yongfeng Yang,Xin Liu,Dong Liang, Hairong Zheng,Wei Fan,Xu Zhang,Zhanli Hu.*<br>
+ [[PDF](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.15368)] ~~[[Github]()]~~
+
+**CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising.** [28th Feb., 2022]<br>
+*Dayang Wang, Fenglei Fan, Zhan Wu, Rui Liu, Fei Wang, Hengyong Yu.*<br>
+[[PDF](https://arxiv.org/pdf/2202.13517)] [[Github](https://github.com/wdayang/CTformer)]
+
+**Low-Dose CT Denoising via Sinogram Inner-Structure Transformer.** [18th Apr., 2022]<br>
+*Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang.*<br>
+[[PDF](https://arxiv.org/pdf/2204.03163)] ~~[[Github]()]~~
+
+**Adversarial Distortion Learning (ADL) for Medical Image Denoising.** [29th Apr., 2022]<br>
+*Morteza Ghahremani, Mohammad Khateri, Alejandra Sierra, Jussi Tohka.*<br>
+[[PDF](https://arxiv.org/pdf/2204.14100)] [[Github](https://github.com/mogvision/adl)]
 
 ---
 ### Surveys
