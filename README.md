@@ -98,7 +98,7 @@ This is a collection of awesome articles about Transformers. If you want to read
 *Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
 [[PDF](https://arxiv.org/pdf/2106.04650)] [[Github](https://github.com/wdayang/CTformer)]
 
-**Eformer: Edge Enhancement based Transformer for Medical Image Denoising.** [9th Nov., 2021]<br>
+**Eformer: Edge Enhancement based Transformer for Medical Image Denoising.** [9th Nov., 2021] [ICCV, 2021]<br>
 *Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav.*<br>
 [[PDF](https://arxiv.org/pdf/2109.08044)] ~~[[Github]()]~~
 
