@@ -129,7 +129,7 @@ This is a collection of awesome articles about Transformers. If you want to read
 *Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du.*<br>
 [[PDF](https://arxiv.org/abs/2111.10480)] [[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
 
-**Affine Medical Image Registration with Coarse-to-Fine Vision Transformer.** [29th Mar., 2022]<br>
+**Affine Medical Image Registration with Coarse-to-Fine Vision Transformer.** [29th Mar., 2022] [CVPR, 2021]<br>
 *Tony C. W. Mok, Albert C. S. Chung.*<br>
 [[PDF](https://arxiv.org/abs/2203.15216)] [[Github](https://github.com/cwmok/C2FViT)]
 
