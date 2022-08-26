@@ -120,6 +120,7 @@ This is a collection of awesome articles about Transformers. If you want to read
 
 ---
 ### Image Registration
+
 **ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** [13th Apr., 2021]<br>
 *Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du.*<br>
 [[PDF](https://arxiv.org/abs/2104.06468)] [[Github](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)]
@@ -135,6 +136,10 @@ This is a collection of awesome articles about Transformers. If you want to read
 
 ---
 ### Report Generation
+
+**Reinforced Transformer for Medical Image Captioning.** [10th Oct., 2019]<br>
+*Yuxuan Xiong, Bo Du, Pingkun Yan.*<br>
+[[PDF](https://doi.org/10.1007/978-3-030-32692-0_77)] ~~[[Github]()]~~
 
 ---
 ### Surveys
