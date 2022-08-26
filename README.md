@@ -120,9 +120,18 @@ This is a collection of awesome articles about Transformers. If you want to read
 
 ---
 ### Image Registration
-**ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration** [18th Apr., 2022]<br>
-*Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang.*<br>
-[[PDF](https://arxiv.org/pdf/2204.03163)] ~~[[Github]()]~~
+**ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** [13th Apr., 2021]<br>
+*Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du.*<br>
+[[PDF](https://arxiv.org/abs/2104.06468)] [[Github](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)]
+
+**TransMorph: Transformer for unsupervised medical image registration.** [19th Nov., 2021]<br>
+*Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du.*<br>
+[[PDF](https://arxiv.org/abs/2111.10480)] [[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
+
+**Affine Medical Image Registration with Coarse-to-Fine Vision Transformer.** [29th Mar., 2022]<br>
+*Tony C. W. Mok, Albert C. S. Chung.*<br>
+[[PDF](https://arxiv.org/abs/2203.15216)] [[Github](https://github.com/cwmok/C2FViT)]
+
 
 ---
 ### Report Generation
