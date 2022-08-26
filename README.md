@@ -119,6 +119,15 @@ This is a collection of awesome articles about Transformers. If you want to read
 [[PDF](https://arxiv.org/pdf/2204.14100)] [[Github](https://github.com/mogvision/adl)]
 
 ---
+### Image Registration
+**ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration** [18th Apr., 2022]<br>
+*Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang.*<br>
+[[PDF](https://arxiv.org/pdf/2204.03163)] ~~[[Github]()]~~
+
+---
+### Report Generation
+
+---
 ### Surveys
 
 **Transformers in Medical Imaging: A Survey.** [24th Jan., 2022]<br>
