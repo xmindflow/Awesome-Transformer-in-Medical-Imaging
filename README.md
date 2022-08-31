@@ -133,6 +133,9 @@ This is a collection of awesome articles about Transformers. If you want to read
 *Tony C. W. Mok, Albert C. S. Chung.*<br>
 [[PDF](https://arxiv.org/abs/2203.15216)] [[Github](https://github.com/cwmok/C2FViT)]
 
+**XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention.** [15th Jun., 2022] [MICCAI, 2021]<br>
+*Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li.*<br>
+[[PDF](https://arxiv.org/abs/2206.07349)] [[Github](https://github.com/solemoon/xmorpher)]
 
 ---
 ### Report Generation
