@@ -137,6 +137,10 @@ This is a collection of awesome articles about Transformers. If you want to read
 *Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li.*<br>
 [[PDF](https://arxiv.org/abs/2206.07349)] [[Github](https://github.com/solemoon/xmorpher)]
 
+**SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI.** [22th Jun., 2022] [MICCAI, 2022]<br>
+*Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson.*<br>
+[[PDF](https://arxiv.org/abs/2206.10802?context=eess)] [[Github](https://github.com/daviddmc/svort)]
+
 ---
 ### Report Generation
 
