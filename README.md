@@ -159,6 +159,7 @@ This is a collection of awesome articles about Transformers. If you want to read
 **Automated Generation of Accurate \& Fluent Medical X-ray Reports.** [27th Jul., 2021] [emnlp, 2021]<br>
 *Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng.*<br>
 [[PDF](https://arxiv.org/abs/2108.12126)] [[Github](https://github.com/ginobilinie/xray_report_generation)]
+
 ---
 ### Surveys
 
