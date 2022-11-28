@@ -148,6 +148,17 @@ This is a collection of awesome articles about Transformers. If you want to read
 *Yuxuan Xiong, Bo Du, Pingkun Yan.*<br>
 [[PDF](https://doi.org/10.1007/978-3-030-32692-0_77)] ~~[[Github]()]~~
 
+**Surgical Instruction Generation with Transformers.** [16th Jul., 2021] [MICCAI, 2021]<br>
+*Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang.*<br>
+[[PDF](https://arxiv.org/abs/2107.06964)]  ~~[[Github]()]~~
+
+**Learning to Generate Clinically Coherent Chest X-Ray Reports.** [16th Jul., 2021] [emnlp, 2020]<br>
+*Justin Lovelace, Bobak Mortazavi.*<br>
+[[PDF](https://aclanthology.org/2020.findings-emnlp.110/)] [[Github](https://github.com/justinlovelace/coherent-xray-report-generation)]
+
+**Automated Generation of Accurate \& Fluent Medical X-ray Reports.** [27th Jul., 2021] [emnlp, 2021]<br>
+*Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng.*<br>
+[[PDF](https://arxiv.org/abs/2108.12126)] [[Github](https://github.com/ginobilinie/xray_report_generation)]
 ---
 ### Surveys
 
