@@ -16,13 +16,13 @@
 
 - [Papers](#papers)
   - [Image Classification](#Image-Classification)
-  - [Image Segmentation](#Segmentation)
-  - [Image Reconstruction](#Reconstruction)
-  - [Image Synthesizing](#Synthesizing)
-  - [Object Detection](#Detection)
-  - [Image Denoising](#Denoising)
-  - [Image Registration](#Registration)
-  - [Report Generation](#Report)
+  - [Image Segmentation](#Image-Segmentation)
+  - [Image Reconstruction](#Image-Reconstruction)
+  - [Image Synthesizing](#Image-Synthesizing)
+  - [Object Detection](#Image-Detection)
+  - [Image Denoising](#Image-Denoising)
+  - [Image Registration](#Image-Registration)
+  - [Report Generation](#Report-Generation)
  
 
 ## Survey Papers in Vision
