@@ -29,7 +29,7 @@
 
 ## Papers
 
----
+
 ### Image Classification
 
 **Training data-efficient image transformers & distillation through attention.** [15th Jan., 2021] [ICML, 2021]<br>
