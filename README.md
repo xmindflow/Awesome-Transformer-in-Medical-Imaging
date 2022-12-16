@@ -15,7 +15,7 @@
 - [Survey Papers in Vision](#survey-papers-in-vision)
 
 - [Papers](#papers)
-  - [Image Classification](#Classification)
+  - [Image Classification](#Image-Classification)
   - [Image Segmentation](#Segmentation)
   - [Image Reconstruction](#Reconstruction)
   - [Image Synthesizing](#Synthesizing)
@@ -30,7 +30,7 @@
 ## Papers
 
 
-### Image Classification
+### Image-Classification
 
 **Training data-efficient image transformers & distillation through attention.** [15th Jan., 2021] [ICML, 2021]<br>
 *Huisi Wu, Shihuai Chen, Guilian Chen, Wei Wang, Baiying Lei, Zhenkun Wen.*<br>
@@ -43,7 +43,7 @@
 
 ---
 
-### Image Segmentation
+### Image-Segmentation
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** [8th Feb., 2021]<br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
  [[PDF](https://arxiv.org/abs/2102.04306)] [[Github](https://github.com/Beckschen/TransUNet)]
@@ -92,18 +92,18 @@
 *Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2201.01266)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)]
 
-### Image Reconstruction
+### Image-Reconstruction
 
 ---
 
-### Image Synthesizing
+### Image-Synthesizing
 
 ---
 
-### Object Detection
+### Object-Detection
 
 ---
-### Image Denoising
+### Image-Denoising
 
 **TransCT: Dual-path Transformer for Low Dose Computed Tomography.** [5th Jul., 2021 ] [MICCAI, 2021]<br>
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing.*<br>
@@ -134,7 +134,7 @@
 [[PDF](https://arxiv.org/pdf/2204.14100)] [[Github](https://github.com/mogvision/adl)]
 
 ---
-### Image Registration
+### Image-Registration
 
 **ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** [13th Apr., 2021]<br>
 *Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du.*<br>
@@ -157,7 +157,7 @@
 [[PDF](https://arxiv.org/abs/2206.10802?context=eess)] [[Github](https://github.com/daviddmc/svort)]
 
 ---
-### Report Generation
+### Report-Generation
 
 **Reinforced Transformer for Medical Image Captioning.** [10th Oct., 2019]<br>
 *Yuxuan Xiong, Bo Du, Pingkun Yan.*<br>
