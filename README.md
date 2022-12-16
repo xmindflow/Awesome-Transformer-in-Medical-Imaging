@@ -6,15 +6,19 @@
 :fire::fire:This is a collection of awesome articles about transformer models in the medical imaging:fire::fire:
 
 :loudspeaker: Our survey paper published on arXiv: [Medical Image Analysis with Transformers: A Review]() :heart:
+
 #### Citation
+
 ```
 
 ```
 
 ## Contents
+
 - [Survey Papers in Vision](#survey-papers-in-vision)
 
 - [Papers](#papers)
+  
   - [Image Classification](#Image-Classification)
   - [Image Segmentation](#Image-Segmentation)
   - [Image Reconstruction](#Image-Reconstruction)
@@ -23,34 +27,64 @@
   - [Image Denoising](#Image-Denoising)
   - [Image Registration](#Image-Registration)
   - [Report Generation](#Report-Generation)
- 
 
 ## Survey Papers in Vision
 
 ## Papers
-
 
 ### Image-Classification
 
 **Training data-efficient image transformers & distillation through attention.** [15th Jan., 2021] [ICML, 2021]<br>
 *Huisi Wu, Shihuai Chen, Guilian Chen, Wei Wang, Baiying Lei, Zhenkun Wen.*<br>
  [[PDF](https://arxiv.org/pdf/2012.12877)] [[Github](https://github.com/facebookresearch/deit)]
- 
+
 **CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification.** [22nd Aug., 2021] [ICCV, 2021]<br>
 *Chun-Fu Chen, Quanfu Fan, Rameswar Panda.*<br>
  [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_CrossViT_Cross-Attention_Multi-Scale_Vision_Transformer_for_Image_Classification_ICCV_2021_paper.pdf)] [[Github](https://github.com/IBM/CrossViT)]
- 
 
 ---
 
 ### Image-Segmentation
+
+**Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation.**[12th May, 2021]  <br>
+*Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang.*  <br>
+[[PDF](https://arxiv.org/abs/2105.05537)] [[Github](https://github.com/HuCaoFighting/Swin-Unet)]
+
+**nnFormer: Interleaved Transformer for Volumetric Segmentation.**[4th Feb., 2022]<br>
+
+
+
+*Hong-Yu Zhou, Jiansen Guo, Yinghao Zhang, Lequan Yu, Liansheng Wang, Yizhou Yu*<br>
+
+
+
+[[PDF]](https://arxiv.org/abs/2109.03201) [[Github]](https://github.com/282857341/nnFormer)
+
+**MISSFormer: An Effective Medical Image Segmentation Transformer.**[19th Dec., 2021]<br>
+
+
+
+*Xiaohong Huang, Zhifang Deng, Dandan Li, Xueguang Yuan*<br>
+
+
+
+[[PDF]](https://arxiv.org/abs/2109.07162) [[Github]](https://github.com/ZhifangDeng/MISSFormer)
+
+TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation.[1st Aug., 2022]<br>
+
+
+
+*Reza Azad, Moein Heidari, Moein Shariatnia, Ehsan Khodapanah Aghdam, Sanaz Karimijafarbigloo, Ehsan Adeli, Dorit Merhof*<br>
+
+
+
+[[PDF]](https://arxiv.org/abs/2208.00713) [[Github]](https://github.com/rezazad68/transdeeplab)
+
 **TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** [8th Feb., 2021]<br>
+
+
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
  [[PDF](https://arxiv.org/abs/2102.04306)] [[Github](https://github.com/Beckschen/TransUNet)]
-
-**CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation.**[4th Mar., 2021] [MICCAI, 2021]<br>
-*Yutong Xie, Jianpeng Zhang, Chunhua Shen, Yong Xia.*<br>
- [[PDF](https://arxiv.org/abs/2103.03024)] [[Github](https://github.com/YtongXie/CoTr)]
 
 **TransBTS: Multimodal Brain Tumor Segmentation Using Transformer.**[7th Mar, 2021] [MICCAI, 2021]<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang.*<br>
@@ -68,9 +102,26 @@
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2103.10504)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV)]
 
-**Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation.**[12th May, 2021]<br>
-*Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang.*<br>
- [[PDF](https://arxiv.org/abs/2105.05537)] [[Github](https://github.com/HuCaoFighting/Swin-Unet)]
+**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images.**[4th Jan., 2022]  <br>
+*Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu.*  <br>
+[[PDF](https://arxiv.org/abs/2201.01266)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)]
+
+
+
+**CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation.**[4th Mar., 2021] [MICCAI, 2021]  <br>
+*Yutong Xie, Jianpeng Zhang, Chunhua Shen, Yong Xia.* <br>
+[[PDF](https://arxiv.org/abs/2103.03024)] [[Github](https://github.com/YtongXie/CoTr)]
+
+**HiFormer: Hierarchical Multi-scale Representations Using Transformers for
+Medical Image Segmentation.**[18th Jul., 2022]<br>
+
+
+
+*Moein Heidari, Amirhossein Kazerouni, Milad Soltany, Reza Azad, Ehsan Khodapanah, Aghdam Julien Cohen-Adad, Dorit Merhof.*<br>
+
+
+
+[[PDF]](https://arxiv.org/abs/2207.08518) [[Github]](https://github.com/amirhossein-kz/HiFormer)
 
 **Medical Image Segmentation Using Squeeze-and-Expansion Transformers.**[20th May, 2021] [IJCAI, 2021 ]<br>
 *Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh.*<br>
@@ -88,9 +139,7 @@
 *Lei Zhou, Huidong Liu, Joseph Bae, Junjun He, Dimitris Samaras, Prateek Prasanna.*<br>
  [[PDF](https://arxiv.org/abs/2203.05573)] [[Github]()]
 
-**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images.**[4th Jan., 2022]<br>
-*Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu.*<br>
- [[PDF](https://arxiv.org/abs/2201.01266)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)]
+
 
 ### Image-Reconstruction
 
@@ -103,12 +152,13 @@
 ### Object-Detection
 
 ---
+
 ### Image-Denoising
 
 **TransCT: Dual-path Transformer for Low Dose Computed Tomography.** [5th Jul., 2021 ] [MICCAI, 2021]<br>
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing.*<br>
  [[PDF](https://arxiv.org/pdf/2103.00634)] [[Github](https://github.com/zzc623/TransCT)]
- 
+
 **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** [8th jun., 2021] [MICCAI, 2021]<br>
 *Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
 [[PDF](https://arxiv.org/pdf/2106.04650)] [[Github](https://github.com/wdayang/CTformer)]
@@ -134,6 +184,7 @@
 [[PDF](https://arxiv.org/pdf/2204.14100)] [[Github](https://github.com/mogvision/adl)]
 
 ---
+
 ### Image-Registration
 
 **ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** [13th Apr., 2021]<br>
@@ -157,6 +208,7 @@
 [[PDF](https://arxiv.org/abs/2206.10802?context=eess)] [[Github](https://github.com/daviddmc/svort)]
 
 ---
+
 ### Report-Generation
 
 **Reinforced Transformer for Medical Image Captioning.** [10th Oct., 2019]<br>
