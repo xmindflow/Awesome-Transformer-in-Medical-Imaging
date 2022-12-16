@@ -15,19 +15,15 @@
 - [Survey Papers in Vision](#survey-papers-in-vision)
 
 - [Papers](#papers)
-  - [Classification](#anomaly-detection)
-  - [Segmentation](#denoising)
-  - [Reconstruction](#segmentation)
-  - [Synthesizing](#image-to-image-translation)
-  - [Detection](#reconstruction)
-  - [Registration](#image-generation)
-  - [Report Generation](#biology-and-molecular-generation)
-  - [Inpainting](#inpainting)
-  - [Adversarial Attacks](#adversarial-attacks)
-  - [Text-to-Image](#text-to-image)
-  - [Time Series](#time-series)
-  - [Multi-task](#multi-task)
-
+  - [Classification](#Image Classification)
+  - [Segmentation](#Image Segmentation)
+  - [Reconstruction](#Image Reconstruction)
+  - [Synthesizing](#Image Synthesizing)
+  - [Detection](#Object Detection)
+  - [Denoising](#Image Denoising)
+  - [Registration](#Image Registration)
+  - [Report Generation](#Report Generation)
+ 
 
 ## Survey Papers in Vision
 
@@ -100,7 +96,7 @@
 
 ---
 
-### Image Classification
+### Image Synthesizing
 
 ---
 
