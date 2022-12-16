@@ -15,13 +15,13 @@
 - [Survey Papers in Vision](#survey-papers-in-vision)
 
 - [Papers](#papers)
-  - [Classification](#Image Classification)
-  - [Segmentation](#Image Segmentation)
-  - [Reconstruction](#Image Reconstruction)
-  - [Synthesizing](#Image Synthesizing)
-  - [Detection](#Object Detection)
-  - [Denoising](#Image Denoising)
-  - [Registration](#Image Registration)
+  - [Image Classification](#Classification)
+  - [Image Segmentation](#Segmentation)
+  - [Image Reconstruction](#Reconstruction)
+  - [Image Synthesizing](#Synthesizing)
+  - [Object Detection](#Detection)
+  - [Image Denoising](#Denoising)
+  - [Image Registration](#Registration)
   - [Report Generation](#Report Generation)
  
 
