@@ -1,19 +1,14 @@
-# Diffusion Models in Medical Imaging
+# Medical Image Analysis with Transformers: A Review
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire:This is a collection of awesome articles about diffusion models in the medical imaging:fire::fire:
+:fire::fire:This is a collection of awesome articles about transformer models in the medical imaging:fire::fire:
 
-:loudspeaker: Our survey paper published on arXiv: [Diffusion Models for Medical Image Analysis: A Comprehensive Survey](https://arxiv.org/abs/2211.07804) :heart:
+:loudspeaker: Our survey paper published on arXiv: [Medical Image Analysis with Transformers: A Review]() :heart:
 #### Citation
 ```
-@article{kazerouni2022diffusion,
-  title={Diffusion Models for Medical Image Analysis: A Comprehensive Survey},
-  author={Kazerouni, Amirhossein and Aghdam, Ehsan Khodapanah and Heidari, Moein and Azad, Reza and Fayyaz, Mohsen and Hacihaliloglu, Ilker and Merhof, Dorit},
-  journal={arXiv preprint arXiv:2211.07804},
-  year={2022}
-}
+
 ```
 
 ## Contents
