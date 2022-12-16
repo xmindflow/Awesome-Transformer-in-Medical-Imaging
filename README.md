@@ -22,7 +22,7 @@
   - [Object Detection](#Detection)
   - [Image Denoising](#Denoising)
   - [Image Registration](#Registration)
-  - [Report Generation](#Report Generation)
+  - [Report Generation](#Report)
  
 
 ## Survey Papers in Vision
