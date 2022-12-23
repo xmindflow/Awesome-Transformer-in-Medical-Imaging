@@ -251,5 +251,7 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
 *Christy Y. Li, Xiaodan Liang, Zhiting Hu, Eric P. Xing.*<br>
 [[PDF](https://arxiv.org/abs/1903.10122)] 
 
-
+**Medical-vlbert: Medical visual language bert for covid-19 ct report generation with alternate learning.** [18th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2021]<br>
+*Guangyi Liu, Yinghong Liao, Fuyu Wang, Bin Zhang, Lu Zhang, Xiaodan Liang, Xiang Wan, Shaolin Li, Zhen Li, Shuixing Zhang, Shuguang Cui.*<br>
+[[PDF](https://arxiv.org/abs/2108.05067)] 
 ---
