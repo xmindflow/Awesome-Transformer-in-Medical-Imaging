@@ -199,6 +199,10 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
 *Tony C. W. Mok, Albert C. S. Chung.*<br>
 [[PDF](https://arxiv.org/abs/2203.15216)] [[Github](https://github.com/cwmok/C2FViT)]
 
+**Learning dual transformer network for diffeomorphic registration.** [21th Sep., 2021] [MICCAI, 2021]<br>
+*Yungeng Zhang, Yuru Pei & Hongbin Zha.*<br>
+[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_13)]
+
 **XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention.** [15th Jun., 2022] [MICCAI, 2021]<br>
 *Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li.*<br>
 [[PDF](https://arxiv.org/abs/2206.07349)] [[Github](https://github.com/solemoon/xmorpher)]
