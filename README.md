@@ -260,4 +260,12 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
 *Guangyi Liu, Yinghong Liao, Fuyu Wang, Bin Zhang, Lu Zhang, Xiaodan Liang, Xiang Wan, Shaolin Li, Zhen Li, Shuixing Zhang, Shuguang Cui.*<br>
 [[PDF](https://arxiv.org/abs/2108.05067)] 
 
+**Progressive Transformer-Based Generation of Radiology Reports.** [31th Aug., 2021]<br>
+*Farhad Nooralahzadeh, Nicolas Perez Gonzalez, Thomas Frauenfelder, Koji Fujimoto, Michael Krauthammer.*<br>
+[[PDF](https://arxiv.org/abs/2102.09777)] [[Github](https://github.com/uzh-dqbm-cmi/argon)]
+
+**Trust It or Not: Confidence-Guided Automatic Radiology Report Generation.** [3th Feb., 2022]<br>
+*Yixin Wang, Zihao Lin, Zhe Xu, Haoyu Dong, Jiang Tian, Jie Luo, Zhongchao Shi, Yang Zhang, Jianping Fan, Zhiqiang He.*<br>
+[[PDF](https://arxiv.org/abs/2106.10887)]
+
 ---
