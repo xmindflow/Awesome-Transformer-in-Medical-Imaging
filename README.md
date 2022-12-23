@@ -147,6 +147,11 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
 
 ### Image-Synthesizing
 
+
+**One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation.**[28th Apr., 2022]<br>
+*Jiang Liu, Srivathsa Pasumarthi, Ben Duffy, Enhao Gong, Greg Zaharchuk, Keshav Datta.*<br>
+ [[PDF](https://arxiv.org/abs/2204.13738)] 
+ 
 ---
 
 ### Object-Detection
