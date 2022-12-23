@@ -220,6 +220,10 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
 
 ### Report-Generation
 
+**Knowledge-driven Encode, Retrieve, Paraphrase for Medical Image Report Generation.** [25th Mar., 2019] [AAAI, 2019]<br>
+*Christy Y. Li, Xiaodan Liang, Zhiting Hu, Eric P. Xing.*<br>
+[[PDF](https://arxiv.org/abs/1903.10122)] 
+
 **Reinforced Transformer for Medical Image Captioning.** [10th Oct., 2019]<br>
 *Yuxuan Xiong, Bo Du, Pingkun Yan.*<br>
 [[PDF](https://doi.org/10.1007/978-3-030-32692-0_77)] ~~[[Github]()]~~
@@ -236,25 +240,9 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
 *Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng.*<br>
 [[PDF](https://arxiv.org/abs/2108.12126)] [[Github](https://github.com/ginobilinie/xray_report_generation)]
 
-**AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation.** [18th Mar., 2022] [MICCAI, 2021]<br>
-*Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu.*<br>
-[[PDF](https://arxiv.org/abs/2203.10095)] 
-
-**Cross-modal Memory Networks for Radiology Report Generation.** [28th Apr., 2022] [ACL-IJCNLP, 2021]<br>
-*Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan.*<br>
-[[PDF](https://arxiv.org/abs/2204.13258)] [[Github](https://github.com/zhjohnchan/R2GenCMN)]
-
 **Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation.** [13th Jun., 2021] [CVPR, 2021]<br>
 *Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou.*<br>
 [[PDF](https://arxiv.org/abs/2106.06963)]
-
-**Generating Radiology Reports via Memory-driven Transformer.** [28th Apr., 2022] [EMNLP, 2020]<br>
-*Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
-[[PDF](https://arxiv.org/abs/2010.16056)] [[Github](https://github.com/cuhksz-nlp/R2Gen)]
-
-**Knowledge-driven Encode, Retrieve, Paraphrase for Medical Image Report Generation.** [25th Mar., 2019] [AAAI, 2019]<br>
-*Christy Y. Li, Xiaodan Liang, Zhiting Hu, Eric P. Xing.*<br>
-[[PDF](https://arxiv.org/abs/1903.10122)] 
 
 **Medical-vlbert: Medical visual language bert for covid-19 ct report generation with alternate learning.** [18th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2021]<br>
 *Guangyi Liu, Yinghong Liao, Fuyu Wang, Bin Zhang, Lu Zhang, Xiaodan Liang, Xiang Wan, Shaolin Li, Zhen Li, Shuixing Zhang, Shuguang Cui.*<br>
@@ -267,5 +255,17 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
 **Trust It or Not: Confidence-Guided Automatic Radiology Report Generation.** [3th Feb., 2022]<br>
 *Yixin Wang, Zihao Lin, Zhe Xu, Haoyu Dong, Jiang Tian, Jie Luo, Zhongchao Shi, Yang Zhang, Jianping Fan, Zhiqiang He.*<br>
 [[PDF](https://arxiv.org/abs/2106.10887)]
+
+**AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation.** [18th Mar., 2022] [MICCAI, 2021]<br>
+*Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu.*<br>
+[[PDF](https://arxiv.org/abs/2203.10095)] 
+
+**Generating Radiology Reports via Memory-driven Transformer.** [28th Apr., 2022] [EMNLP, 2020]<br>
+*Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
+[[PDF](https://arxiv.org/abs/2010.16056)] [[Github](https://github.com/cuhksz-nlp/R2Gen)]
+
+**Cross-modal Memory Networks for Radiology Report Generation.** [28th Apr., 2022] [ACL-IJCNLP, 2021]<br>
+*Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan.*<br>
+[[PDF](https://arxiv.org/abs/2204.13258)] [[Github](https://github.com/zhjohnchan/R2GenCMN)]
 
 ---
