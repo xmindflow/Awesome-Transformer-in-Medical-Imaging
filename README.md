@@ -228,13 +228,17 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
 *Yuxuan Xiong, Bo Du, Pingkun Yan.*<br>
 [[PDF](https://doi.org/10.1007/978-3-030-32692-0_77)] ~~[[Github]()]~~
 
-**Surgical Instruction Generation with Transformers.** [16th Jul., 2021] [MICCAI, 2021]<br>
-*Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang.*<br>
-[[PDF](https://arxiv.org/abs/2107.06964)]  ~~[[Github]()]~~
+**Generating Radiology Reports via Memory-driven Transformer.** [28th Apr., 2022] [EMNLP, 2020]<br>
+*Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
+[[PDF](https://arxiv.org/abs/2010.16056)] [[Github](https://github.com/cuhksz-nlp/R2Gen)]
 
 **Learning to Generate Clinically Coherent Chest X-Ray Reports.** [16th Jul., 2021] [emnlp, 2020]<br>
 *Justin Lovelace, Bobak Mortazavi.*<br>
 [[PDF](https://aclanthology.org/2020.findings-emnlp.110/)] [[Github](https://github.com/justinlovelace/coherent-xray-report-generation)]
+
+**Surgical Instruction Generation with Transformers.** [16th Jul., 2021] [MICCAI, 2021]<br>
+*Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang.*<br>
+[[PDF](https://arxiv.org/abs/2107.06964)]  ~~[[Github]()]~~
 
 **Automated Generation of Accurate \& Fluent Medical X-ray Reports.** [27th Jul., 2021] [emnlp, 2021]<br>
 *Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng.*<br>
@@ -248,11 +252,11 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
 *Guangyi Liu, Yinghong Liao, Fuyu Wang, Bin Zhang, Lu Zhang, Xiaodan Liang, Xiang Wan, Shaolin Li, Zhen Li, Shuixing Zhang, Shuguang Cui.*<br>
 [[PDF](https://arxiv.org/abs/2108.05067)] 
 
-**Progressive Transformer-Based Generation of Radiology Reports.** [31th Aug., 2021]<br>
+**Progressive Transformer-Based Generation of Radiology Reports.** [31th Aug., 2021] [arXiv , 2021]<br>
 *Farhad Nooralahzadeh, Nicolas Perez Gonzalez, Thomas Frauenfelder, Koji Fujimoto, Michael Krauthammer.*<br>
 [[PDF](https://arxiv.org/abs/2102.09777)] [[Github](https://github.com/uzh-dqbm-cmi/argon)]
-
-**Trust It or Not: Confidence-Guided Automatic Radiology Report Generation.** [3th Feb., 2022]<br>
+ 
+**Trust It or Not: Confidence-Guided Automatic Radiology Report Generation.** [3th Feb., 2022] [arXiv , 2021]<br>
 *Yixin Wang, Zihao Lin, Zhe Xu, Haoyu Dong, Jiang Tian, Jie Luo, Zhongchao Shi, Yang Zhang, Jianping Fan, Zhiqiang He.*<br>
 [[PDF](https://arxiv.org/abs/2106.10887)]
 
@@ -260,11 +264,7 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
 *Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu.*<br>
 [[PDF](https://arxiv.org/abs/2203.10095)] 
 
-**Generating Radiology Reports via Memory-driven Transformer.** [28th Apr., 2022] [EMNLP, 2020]<br>
-*Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
-[[PDF](https://arxiv.org/abs/2010.16056)] [[Github](https://github.com/cuhksz-nlp/R2Gen)]
-
-**Cross-modal Memory Networks for Radiology Report Generation.** [28th Apr., 2022] [ACL-IJCNLP, 2021]<br>
+**Cross-modal Memory Networks for Radiology Report Generation.** [28th Apr., 2022] [arXiv, 2022]<br>
 *Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan.*<br>
 [[PDF](https://arxiv.org/abs/2204.13258)] [[Github](https://github.com/zhjohnchan/R2GenCMN)]
 
