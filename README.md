@@ -32,12 +32,17 @@
 
 ## Papers
 
-### Image-Classification
+### Image Classification
+
+**A graph-transformer for whole slide image classification** <br>
+*Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama*<br>
+[19th May, 2022] [IEEE Transactions on Medical Imaging, 2022] \
+[[PDF](https://arxiv.org/abs/2205.09671)] [[GitHub](https://github.com/vkola-lab/tmi2022)]
 
 **RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification** <br>
 *Moinak Bhattacharya, Shubham Jain, Prateek Prasanna*<br>
 [23rd Feb., 2022] [ECCV, 2022] \
-[[PDF](https://arxiv.org/pdf/2202.11781)]
+[[PDF](https://arxiv.org/abs/2202.11781)]
 
 **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training** <br>
 *Sangjoon Park, Gwanghyun Kim, Jeongsol Kim, Boah Kim, Jong Chul Ye*<br>
@@ -47,12 +52,17 @@
 **MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification** <br>
 *Shuang Yu, Kai Ma, Qi Bi, Cheng Bian, Munan Ning, Nanjun He, Yuexiang Li, Hanruo Liu, Yefeng Zheng*<br>
 [21st Sep., 2021] [MICCAI, 2021] \
-[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)] [[Github](https://github.com/greentreeys/MIL-VT)] 
+[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)] [[GitHub](https://github.com/greentreeys/MIL-VT)] 
+
+**3DMeT: 3D Medical Image Transformer for Knee Cartilage Defect Assessment** <br>
+*Sheng Wang, Zixu Zhuang, Kai Xuan, Dahong Qian, Zhong Xue, Jia Xu, Ying Liu, Yiming Chai, Lichi Zhang, Qian Wang, Dinggang Shen*<br>
+[21st Sep., 2021] [MICCAI Workshop, 2021] \
+[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87589-3_36)]
 
 **COVID-Transformer: Interpretable COVID-19 Detection Using Vision Transformer for Healthcare** <br>
 *Debaditya Shome, T. Kar, Sachi Nandan Mohanty, Prayag Tiwari, Khan Muhammad, Abdullah AlTameem, Yazhou Zhang, Abdul Khader Jilani Saudagar*<br>
 [23rd Sep., 2021] International Journal of Environmental Research and Public Health, 2021] \
-[[PDF](https://www.mdpi.com/1660-4601/18/21/11086)] [[Github](https://github.com/DebadityaShome/COVID-Transformer)] 
+[[PDF](https://www.mdpi.com/1660-4601/18/21/11086)] [[GitHub](https://github.com/DebadityaShome/COVID-Transformer)] 
 
 **Vision transformer for classification of breast ultrasound images** <br>
 *Behnaz Gheflati, Hassan Rivaz*<br>
@@ -62,7 +72,12 @@
 **Is it Time to Replace CNNs with Transformers for Medical Images?** <br>
 *Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith*<br>
 [20th Aug., 2021] [ICCV Workshop, 2021] \
-[[PDF](https://arxiv.org/abs/2108.09038)] [[Github](https://github.com/ChrisMats/medical_transformers)] 
+[[PDF](https://arxiv.org/abs/2108.09038)] [[GitHub](https://github.com/ChrisMats/medical_transformers)] 
+
+**Vision Transformer for femur fracture classification** <br>
+*Leonardo Tanzi, Andrea Audisio, Giansalvo Cirrincione, Alessandro Aprato, Enrico Vezzetti*<br>
+[7th Aug., 2021] [Injury Journal, 2022] \
+[[PDF](https://arxiv.org/abs/2108.03414)]
 
 **xViTCOS: Explainable Vision Transformer Based COVID-19 Screening Using Radiography** <br>
 *Arnab Kumar Mondal, Arnab Bhattacharjee, Parag Singla, A. P. Prathosh*<br>
@@ -72,12 +87,12 @@
 **COVID-VIT: Classification of COVID-19 from CT chest images based on vision transformer models** <br>
 *Xiaohong Gao, Yu Qian, Alice Gao*<br>
 [4th Jul., 2021] [NextComp, 2022] \
-[[PDF](https://arxiv.org/abs/2107.01682)] [[Github](https://github.com/xiaohong1/COVID-ViT)] 
+[[PDF](https://arxiv.org/abs/2107.01682)] [[GitHub](https://github.com/xiaohong1/COVID-ViT)] 
 
 **TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
 *Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
 [2nd Jun., 2022] [NeurIPS, 2021] \
-[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] [[Github](https://github.com/szc19990412/TransMIL)] 
+[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] [[GitHub](https://github.com/szc19990412/TransMIL)] 
 
 **Lesion-Aware Transformers for Diabetic Retinopathy Grading** <br>
 *Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang*<br>
@@ -94,110 +109,111 @@
 [21st Apr., 2021] [CISAT, 2021] \
 [[PDF](https://iopscience.iop.org/article/10.1088/1742-6596/2010/1/012175/pdf)] 
 
+**Vision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus** <br>
+*Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Jong Chul Ye*<br>
+[12th Mar., 2021] [arXiv, 2021] \
+[[PDF](https://arxiv.org/abs/2103.07055)]
+
+**TransMed: Transformers Advance Multi-modal Medical Image Classification** <br>
+*Yin Dai, Yifan Gao*<br>
+[10th Mar., 2021] [Diagnostics, 2021] \
+[[PDF](https://arxiv.org/abs/2103.05940)]
+
+**HATNet: An End-to-End Holistic Attention Network for Diagnosis of Breast Biopsy Images** <br>
+*Sachin Mehta, Ximing Lu, Donald Weaver, Joann G. Elmore, Hannaneh Hajishirzi, Linda Shapiro*<br>
+[25th Jul, 2020] [Medical Image Analysis Journal, 2022] \
+[[PDF](https://arxiv.org/abs/2007.13007)] [[GitHub](https://github.com/sacmehta/HATNet)]
+
 ---
 
-### Image-Segmentation
+### Image Segmentation
 
-**Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation.**[12th May, 2021]  <br>
+**Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation.**<br>
 *Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang.*  <br>
-[[PDF](https://arxiv.org/abs/2105.05537)] [[Github](https://github.com/HuCaoFighting/Swin-Unet)]
+[12th May, 2021] \
+[[PDF](https://arxiv.org/abs/2105.05537)] [[GitHub](https://github.com/HuCaoFighting/Swin-Unet)]
 
-**nnFormer: Interleaved Transformer for Volumetric Segmentation.**[4th Feb., 2022]<br>
-
-
-
+**nnFormer: Interleaved Transformer for Volumetric Segmentation.**<br>
 *Hong-Yu Zhou, Jiansen Guo, Yinghao Zhang, Lequan Yu, Liansheng Wang, Yizhou Yu*<br>
+[4th Feb., 2022] \
+[[PDF]](https://arxiv.org/abs/2109.03201) [[GitHub](https://github.com/282857341/nnFormer)]
 
-
-
-[[PDF]](https://arxiv.org/abs/2109.03201) [[Github]](https://github.com/282857341/nnFormer)
-
-**MISSFormer: An Effective Medical Image Segmentation Transformer.**[19th Dec., 2021]<br>
-
-
-
+**MISSFormer: An Effective Medical Image Segmentation Transformer.**<br>
 *Xiaohong Huang, Zhifang Deng, Dandan Li, Xueguang Yuan*<br>
+[19th Dec., 2021] \
+[[PDF]](https://arxiv.org/abs/2109.07162) [[GitHub](https://github.com/ZhifangDeng/MISSFormer)]
 
-
-
-[[PDF]](https://arxiv.org/abs/2109.07162) [[Github]](https://github.com/ZhifangDeng/MISSFormer)
-
-TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation.[1st Aug., 2022]<br>
-
-
-
+**TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation.** <br>
 *Reza Azad, Moein Heidari, Moein Shariatnia, Ehsan Khodapanah Aghdam, Sanaz Karimijafarbigloo, Ehsan Adeli, Dorit Merhof*<br>
+[1st Aug., 2022] \
+[[PDF]](https://arxiv.org/abs/2208.00713) [[GitHub](https://github.com/rezazad68/transdeeplab)]
 
-
-
-[[PDF]](https://arxiv.org/abs/2208.00713) [[Github]](https://github.com/rezazad68/transdeeplab)
-
-**TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** [8th Feb., 2021]<br>
-
-
+**TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation.** <br>
 *Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou.*<br>
- [[PDF](https://arxiv.org/abs/2102.04306)] [[Github](https://github.com/Beckschen/TransUNet)]
+[8th Feb., 2021] \
+ [[PDF](https://arxiv.org/abs/2102.04306)] [[GitHub](https://github.com/Beckschen/TransUNet)]
 
-**TransBTS: Multimodal Brain Tumor Segmentation Using Transformer.**[7th Mar, 2021] [MICCAI, 2021]<br>
+**TransBTS: Multimodal Brain Tumor Segmentation Using Transformer.**<br>
 *Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang.*<br>
- [[PDF](https://arxiv.org/abs/2103.04430)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
+[7th Mar, 2021] [MICCAI, 2021] \
+ [[PDF](https://arxiv.org/abs/2103.04430)] [[GitHub](https://github.com/Wenxuan-1119/TransBTS)]
 
-**TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation.**[16th Feb., 2021]<br>
+**TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation.**<br>
 *Yundong Zhang, Huiye Liu, Qiang Hu.*<br>
- [[PDF](https://arxiv.org/abs/2102.08005)] [[Github]()]
+[16th Feb., 2021] \
+ [[PDF](https://arxiv.org/abs/2102.08005)] 
 
-**Medical Transformer: Gated Axial-Attention for Medical Image Segmentation.**[21th Feb., 2021] [MICCAI, 2021]<br>
+**Medical Transformer: Gated Axial-Attention for Medical Image Segmentation.**<br>
 *Jeya Maria Jose Valanarasu, Poojan Oza, Ilker Hacihaliloglu, Vishal M. Patel.*<br>
- [[PDF](https://arxiv.org/abs/2102.10662)] [[Github](https://github.com/jeya-maria-jose/Medical-Transformer)]
+[21th Feb., 2021] [MICCAI, 2021] \
+ [[PDF](https://arxiv.org/abs/2102.10662)] [[GitHub](https://github.com/jeya-maria-jose/Medical-Transformer)]
 
-**UNETR: Transformers for 3D Medical Image Segmentation.**[18th Mar., 2021]<br>
+**UNETR: Transformers for 3D Medical Image Segmentation.**<br>
 *Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu.*<br>
- [[PDF](https://arxiv.org/abs/2103.10504)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV)]
+[18th Mar., 2021] \
+ [[PDF](https://arxiv.org/abs/2103.10504)] [[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV)]
 
-**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images.**[4th Jan., 2022]  <br>
+**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images.**<br>
 *Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu.*  <br>
-[[PDF](https://arxiv.org/abs/2201.01266)] [[Github](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)]
+[4th Jan., 2022] \
+[[PDF](https://arxiv.org/abs/2201.01266)] [[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)]
 
-
-
-**CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation.**[4th Mar., 2021] [MICCAI, 2021]  <br>
+**CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation.**  <br>
 *Yutong Xie, Jianpeng Zhang, Chunhua Shen, Yong Xia.* <br>
-[[PDF](https://arxiv.org/abs/2103.03024)] [[Github](https://github.com/YtongXie/CoTr)]
+[4th Mar., 2021] [MICCAI, 2021] \
+[[PDF](https://arxiv.org/abs/2103.03024)] [[GitHub](https://github.com/YtongXie/CoTr)]
 
-**HiFormer: Hierarchical Multi-scale Representations Using Transformers for
-Medical Image Segmentation.**[18th Jul., 2022]<br>
-
-
-
+**HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation.**<br>
 *Moein Heidari, Amirhossein Kazerouni, Milad Soltany, Reza Azad, Ehsan Khodapanah, Aghdam Julien Cohen-Adad, Dorit Merhof.*<br>
+[18th Jul., 2022][WACV, 2023] \
+[[PDF]](https://arxiv.org/abs/2207.08518) [[GitHub](https://github.com/amirhossein-kz/HiFormer)]
 
-
-
-[[PDF]](https://arxiv.org/abs/2207.08518) [[Github]](https://github.com/amirhossein-kz/HiFormer)
-
-**Medical Image Segmentation Using Squeeze-and-Expansion Transformers.**[20th May, 2021] [IJCAI, 2021 ]<br>
+**Medical Image Segmentation Using Squeeze-and-Expansion Transformers.**<br>
 *Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh.*<br>
- [[PDF](https://arxiv.org/abs/2105.09511)] [[Github](https://github.com/askerlee/segtran)]
+[20th May, 2021] [IJCAI, 2021] \
+[[PDF](https://arxiv.org/abs/2105.09511)] [[GitHub](https://github.com/askerlee/segtran)]
 
-**T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging.**[15th Nov., 2021] [ICCV, 2021]<br>
+**T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging.**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu.*<br>
- [[PDF](https://arxiv.org/abs/2111.07535)] [[Github]()]
+[15th Nov., 2021] [ICCV, 2021] \
+[[PDF](https://arxiv.org/abs/2111.07535)]
 
-**Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.**[9th Dec., 2021]<br>
+**Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer.**<br>
 *Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang.*<br>
+[9th Dec., 2021] \
  [[PDF](https://arxiv.org/abs/2112.04894)] [[Github](https://github.com/HiLab-git/SSL4MIS)]
 
-**Self Pre-training with Masked Autoencoders for Medical Image Analysis.**[10th Mar., 2022]<br>
+**Self Pre-training with Masked Autoencoders for Medical Image Analysis.**<br>
 *Lei Zhou, Huidong Liu, Joseph Bae, Junjun He, Dimitris Samaras, Prateek Prasanna.*<br>
- [[PDF](https://arxiv.org/abs/2203.05573)] [[Github]()]
+[10th Mar., 2022] \
+[[PDF](https://arxiv.org/abs/2203.05573)] 
 
 
-
-### Image-Reconstruction
+### Image Reconstruction
 
 ---
 
-### Image-Synthesizing
+### Image Synthesizing
 
 
 **One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation.**[28th Apr., 2022]<br>
@@ -206,118 +222,143 @@ Medical Image Segmentation.**[18th Jul., 2022]<br>
  
 ---
 
-### Object-Detection
+### Object Detection
 
 ---
 
-### Image-Denoising
+### Image Denoising
 
-**TransCT: Dual-path Transformer for Low Dose Computed Tomography.** [5th Jul., 2021 ] [MICCAI, 2021]<br>
+**TransCT: Dual-path Transformer for Low Dose Computed Tomography.**<br>
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing.*<br>
- [[PDF](https://arxiv.org/pdf/2103.00634)] [[Github](https://github.com/zzc623/TransCT)]
+[5th Jul., 2021 ] [MICCAI, 2021] \
+ [[PDF](https://arxiv.org/pdf/2103.00634)] [[GitHub](https://github.com/zzc623/TransCT)]
 
-**TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** [8th jun., 2021] [MICCAI, 2021]<br>
+**TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** <br>
 *Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
-[[PDF](https://arxiv.org/pdf/2106.04650)] [[Github](https://github.com/wdayang/CTformer)]
+[8th jun., 2021] [MICCAI, 2021] \
+[[PDF](https://arxiv.org/pdf/2106.04650)] [[GitHub](https://github.com/wdayang/CTformer)]
 
-**Eformer: Edge Enhancement based Transformer for Medical Image Denoising.** [9th Nov., 2021] [ICCV, 2021]<br>
+**Eformer: Edge Enhancement based Transformer for Medical Image Denoising.** <br>
 *Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav.*<br>
-[[PDF](https://arxiv.org/pdf/2109.08044)] ~~[[Github]()]~~
+[9th Nov., 2021] [ICCV, 2021] \
+[[PDF](https://arxiv.org/pdf/2109.08044)] 
 
-**Spatial adaptive and transformer fusion network (STFNet) for low‐count PET blind denoising with MRI.** [8th Nov., 2021] [Medical Physics]<br>
+**Spatial adaptive and transformer fusion network (STFNet) for low‐count PET blind denoising with MRI.** <br>
 *Lipei Zhang, Zizheng Xiao, Chao Zhou, Jianmin Yuan, Qiang He, Yongfeng Yang, Xin Liu, Dong Liang, Hairong Zheng, Wei Fan, Xu Zhang, Zhanli Hu.*<br>
- [[PDF](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.15368)] ~~[[Github]()]~~
+[8th Nov., 2021] [Medical Physics] \
+ [[PDF](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.15368)] 
 
-**CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising.** [28th Feb., 2022]<br>
+**CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising.** <br>
 *Dayang Wang, Fenglei Fan, Zhan Wu, Rui Liu, Fei Wang, Hengyong Yu.*<br>
-[[PDF](https://arxiv.org/pdf/2202.13517)] [[Github](https://github.com/wdayang/CTformer)]
+[28th Feb., 2022] \
+[[PDF](https://arxiv.org/pdf/2202.13517)] [[GitHub](https://github.com/wdayang/CTformer)]
 
-**Low-Dose CT Denoising via Sinogram Inner-Structure Transformer.** [18th Apr., 2022]<br>
+**Low-Dose CT Denoising via Sinogram Inner-Structure Transformer.** <br>
 *Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang.*<br>
-[[PDF](https://arxiv.org/pdf/2204.03163)] ~~[[Github]()]~~
+[18th Apr., 2022] \
+[[PDF](https://arxiv.org/pdf/2204.03163)] 
 
-**Adversarial Distortion Learning (ADL) for Medical Image Denoising.** [29th Apr., 2022]<br>
+**Adversarial Distortion Learning (ADL) for Medical Image Denoising.** <br>
 *Morteza Ghahremani, Mohammad Khateri, Alejandra Sierra, Jussi Tohka.*<br>
-[[PDF](https://arxiv.org/pdf/2204.14100)] [[Github](https://github.com/mogvision/adl)]
+[29th Apr., 2022] \
+[[PDF](https://arxiv.org/pdf/2204.14100)] [[GitHub](https://github.com/mogvision/adl)]
 
 ---
 
-### Image-Registration
+### Image Registration
 
-**ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** [13th Apr., 2021]<br>
+**ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** <br>
 *Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du.*<br>
-[[PDF](https://arxiv.org/abs/2104.06468)] [[Github](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)]
+[13th Apr., 2021] \
+[[PDF](https://arxiv.org/abs/2104.06468)] [[GitHub](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)]
 
-**TransMorph: Transformer for unsupervised medical image registration.** [19th Nov., 2021]<br>
+**TransMorph: Transformer for unsupervised medical image registration.** <br>
 *Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du.*<br>
-[[PDF](https://arxiv.org/abs/2111.10480)] [[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
+[19th Nov., 2021] \
+[[PDF](https://arxiv.org/abs/2111.10480)] [[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
 
-**Affine Medical Image Registration with Coarse-to-Fine Vision Transformer.** [29th Mar., 2022] [CVPR, 2021]<br>
+**Affine Medical Image Registration with Coarse-to-Fine Vision Transformer.** <br>
 *Tony C. W. Mok, Albert C. S. Chung.*<br>
-[[PDF](https://arxiv.org/abs/2203.15216)] [[Github](https://github.com/cwmok/C2FViT)]
+[29th Mar., 2022] [CVPR, 2021] \
+[[PDF](https://arxiv.org/abs/2203.15216)] [[GitHub](https://github.com/cwmok/C2FViT)]
 
-**Learning dual transformer network for diffeomorphic registration.** [21th Sep., 2021] [MICCAI, 2021]<br>
+**Learning dual transformer network for diffeomorphic registration.** <br>
 *Yungeng Zhang, Yuru Pei & Hongbin Zha.*<br>
+[21th Sep., 2021] [MICCAI, 2021] \
 [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_13)]
 
-**XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention.** [15th Jun., 2022] [MICCAI, 2021]<br>
+**XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention.**<br>
 *Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li.*<br>
-[[PDF](https://arxiv.org/abs/2206.07349)] [[Github](https://github.com/solemoon/xmorpher)]
+[15th Jun., 2022] [MICCAI, 2021] \
+[[PDF](https://arxiv.org/abs/2206.07349)] [[GitHub](https://github.com/solemoon/xmorpher)]
 
-**SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI.** [22th Jun., 2022] [MICCAI, 2022]<br>
+**SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI.** <br>
 *Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson.*<br>
-[[PDF](https://arxiv.org/abs/2206.10802?context=eess)] [[Github](https://github.com/daviddmc/svort)]
+[22th Jun., 2022] [MICCAI, 2022] \
+[[PDF](https://arxiv.org/abs/2206.10802?context=eess)] [[GitHub](https://github.com/daviddmc/svort)]
 
 ---
 
-### Report-Generation
+### Report Generation
 
-**Knowledge-driven Encode, Retrieve, Paraphrase for Medical Image Report Generation.** [25th Mar., 2019] [AAAI, 2019]<br>
+**Knowledge-driven Encode, Retrieve, Paraphrase for Medical Image Report Generation.** <br>
 *Christy Y. Li, Xiaodan Liang, Zhiting Hu, Eric P. Xing.*<br>
+[25th Mar., 2019] [AAAI, 2019] \
 [[PDF](https://arxiv.org/abs/1903.10122)] 
 
-**Reinforced Transformer for Medical Image Captioning.** [10th Oct., 2019]<br>
+**Reinforced Transformer for Medical Image Captioning.** <br>
 *Yuxuan Xiong, Bo Du, Pingkun Yan.*<br>
-[[PDF](https://doi.org/10.1007/978-3-030-32692-0_77)] ~~[[Github]()]~~
+[10th Oct., 2019] \
+[[PDF](https://doi.org/10.1007/978-3-030-32692-0_77)]
 
-**Generating Radiology Reports via Memory-driven Transformer.** [28th Apr., 2022] [EMNLP, 2020]<br>
+**Generating Radiology Reports via Memory-driven Transformer.**<br>
 *Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
-[[PDF](https://arxiv.org/abs/2010.16056)] [[Github](https://github.com/cuhksz-nlp/R2Gen)]
+[28th Apr., 2022] [EMNLP, 2020] \
+[[PDF](https://arxiv.org/abs/2010.16056)] [[GitHub](https://github.com/cuhksz-nlp/R2Gen)]
 
-**Learning to Generate Clinically Coherent Chest X-Ray Reports.** [16th Jul., 2021] [emnlp, 2020]<br>
+**Learning to Generate Clinically Coherent Chest X-Ray Reports.** <br>
 *Justin Lovelace, Bobak Mortazavi.*<br>
-[[PDF](https://aclanthology.org/2020.findings-emnlp.110/)] [[Github](https://github.com/justinlovelace/coherent-xray-report-generation)]
+[16th Jul., 2021] [emnlp, 2020] \
+[[PDF](https://aclanthology.org/2020.findings-emnlp.110/)] [[GitHub](https://github.com/justinlovelace/coherent-xray-report-generation)]
 
-**Surgical Instruction Generation with Transformers.** [16th Jul., 2021] [MICCAI, 2021]<br>
+**Surgical Instruction Generation with Transformers.**<br>
 *Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang.*<br>
-[[PDF](https://arxiv.org/abs/2107.06964)]  ~~[[Github]()]~~
+[16th Jul., 2021] [MICCAI, 2021] \
+[[PDF](https://arxiv.org/abs/2107.06964)] 
 
-**Automated Generation of Accurate \& Fluent Medical X-ray Reports.** [27th Jul., 2021] [emnlp, 2021]<br>
+**Automated Generation of Accurate \& Fluent Medical X-ray Reports.** <br>
 *Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng.*<br>
-[[PDF](https://arxiv.org/abs/2108.12126)] [[Github](https://github.com/ginobilinie/xray_report_generation)]
+[27th Jul., 2021] [emnlp, 2021] \
+[[PDF](https://arxiv.org/abs/2108.12126)] [[GitHub](https://github.com/ginobilinie/xray_report_generation)]
 
-**Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation.** [13th Jun., 2021] [CVPR, 2021]<br>
+**Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation.** <br>
 *Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou.*<br>
+[13th Jun., 2021] [CVPR, 2021] \
 [[PDF](https://arxiv.org/abs/2106.06963)]
 
-**Medical-vlbert: Medical visual language bert for covid-19 ct report generation with alternate learning.** [18th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2021]<br>
+**Medical-vlbert: Medical visual language bert for covid-19 ct report generation with alternate learning.** <br>
 *Guangyi Liu, Yinghong Liao, Fuyu Wang, Bin Zhang, Lu Zhang, Xiaodan Liang, Xiang Wan, Shaolin Li, Zhen Li, Shuixing Zhang, Shuguang Cui.*<br>
+[18th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2021] \
 [[PDF](https://arxiv.org/abs/2108.05067)] 
 
-**Progressive Transformer-Based Generation of Radiology Reports.** [31th Aug., 2021] [arXiv , 2021]<br>
+**Progressive Transformer-Based Generation of Radiology Reports.** <br>
 *Farhad Nooralahzadeh, Nicolas Perez Gonzalez, Thomas Frauenfelder, Koji Fujimoto, Michael Krauthammer.*<br>
-[[PDF](https://arxiv.org/abs/2102.09777)] [[Github](https://github.com/uzh-dqbm-cmi/argon)]
+[31th Aug., 2021] [arXiv , 2021] \
+[[PDF](https://arxiv.org/abs/2102.09777)] [[GitHub](https://github.com/uzh-dqbm-cmi/argon)]
  
-**Trust It or Not: Confidence-Guided Automatic Radiology Report Generation.** [3th Feb., 2022] [arXiv , 2021]<br>
+**Trust It or Not: Confidence-Guided Automatic Radiology Report Generation.** <br>
 *Yixin Wang, Zihao Lin, Zhe Xu, Haoyu Dong, Jiang Tian, Jie Luo, Zhongchao Shi, Yang Zhang, Jianping Fan, Zhiqiang He.*<br>
+[3th Feb., 2022] [arXiv , 2021] \
 [[PDF](https://arxiv.org/abs/2106.10887)]
 
-**AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation.** [18th Mar., 2022] [MICCAI, 2021]<br>
+**AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation.** <br>
 *Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu.*<br>
+[18th Mar., 2022] [MICCAI, 2021] \
 [[PDF](https://arxiv.org/abs/2203.10095)] 
 
-**Cross-modal Memory Networks for Radiology Report Generation.** [28th Apr., 2022] [arXiv, 2022]<br>
+**Cross-modal Memory Networks for Radiology Report Generation.** <br>
 *Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan.*<br>
-[[PDF](https://arxiv.org/abs/2204.13258)] [[Github](https://github.com/zhjohnchan/R2GenCMN)]
+[28th Apr., 2022] [arXiv, 2022] \
+[[PDF](https://arxiv.org/abs/2204.13258)] [[GitHub](https://github.com/zhjohnchan/R2GenCMN)]
 
 ---
