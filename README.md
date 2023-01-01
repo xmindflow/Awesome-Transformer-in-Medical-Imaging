@@ -34,24 +34,31 @@
 
 ### Image-Classification
 
-. [15th May, 2021].
-.
 
-
-**POCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound** <br>
-*Shehan Perera, Srikar Adhikari, Alper Yilmaz*<br>
-[20th May, 2021] [ICIP, 2022] \
-[[PDF](https://arxiv.org/abs/2105.09913)]
+**MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification** <br>
+*Shuang Yu, Kai Ma, Qi Bi, Cheng Bian, Munan Ning, Nanjun He, Yuexiang Li, Hanruo Liu, Yefeng Zheng*<br>
+[21st Sep., 2021] [MICCAI, 2021] \
+[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)] [[Github](https://github.com/greentreeys/MIL-VT)] 
 
 **Vision transformer for classification of breast ultrasound images** <br>
 *Behnaz Gheflati, Hassan Rivaz*<br>
 [27th Oct., 2021] [EMBC, 2022] \
-[[PDF](https://arxiv.org/abs/2110.14731)] [[Github](https://github.com/ChrisMats/medical_transformers)] 
+[[PDF](https://arxiv.org/abs/2110.14731)]
 
 **Is it Time to Replace CNNs with Transformers for Medical Images?** <br>
 *Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith*<br>
 [20th Aug., 2021] [ICCV Workshop, 2021] \
 [[PDF](https://arxiv.org/abs/2108.09038)] [[Github](https://github.com/ChrisMats/medical_transformers)] 
+
+**COVID-VIT: Classification of COVID-19 from CT chest images based on vision transformer models** <br>
+*Xiaohong Gao, Yu Qian, Alice Gao*<br>
+[4th Jul., 2021] [NextComp, 2022] \
+[[PDF](https://arxiv.org/abs/2107.01682)] [[Github](https://github.com/xiaohong1/COVID-ViT)] 
+
+**POCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound** <br>
+*Shehan Perera, Srikar Adhikari, Alper Yilmaz*<br>
+[20th May, 2021] [ICIP, 2022] \
+[[PDF](https://arxiv.org/abs/2105.09913)]
 
 ---
 
