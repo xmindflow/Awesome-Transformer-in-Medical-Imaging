@@ -34,11 +34,20 @@
 
 ### Image-Classification
 
+**Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training** <br>
+*Sangjoon Park, Gwanghyun Kim, Jeongsol Kim, Boah Kim, Jong Chul Ye*<br>
+[2nd Nov., 2021] [NeurIPS, 2021] \
+[[PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwijh4Dj5Kb8AhUnRvEDHZWQByUQFnoECA8QAQ&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DGgikq6Tdxch&usg=AOvVaw2FRmFAEyk1osGtkMa8nXWL)] 
 
 **MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification** <br>
 *Shuang Yu, Kai Ma, Qi Bi, Cheng Bian, Munan Ning, Nanjun He, Yuexiang Li, Hanruo Liu, Yefeng Zheng*<br>
 [21st Sep., 2021] [MICCAI, 2021] \
 [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)] [[Github](https://github.com/greentreeys/MIL-VT)] 
+
+**COVID-Transformer: Interpretable COVID-19 Detection Using Vision Transformer for Healthcare** <br>
+*Debaditya Shome, T. Kar, Sachi Nandan Mohanty, Prayag Tiwari, Khan Muhammad, Abdullah AlTameem, Yazhou Zhang, Abdul Khader Jilani Saudagar*<br>
+[23rd Sep., 2021] International Journal of Environmental Research and Public Health, 2021] \
+[[PDF](https://www.mdpi.com/1660-4601/18/21/11086)] [[Github](https://github.com/DebadityaShome/COVID-Transformer)] 
 
 **Vision transformer for classification of breast ultrasound images** <br>
 *Behnaz Gheflati, Hassan Rivaz*<br>
@@ -49,6 +58,11 @@
 *Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith*<br>
 [20th Aug., 2021] [ICCV Workshop, 2021] \
 [[PDF](https://arxiv.org/abs/2108.09038)] [[Github](https://github.com/ChrisMats/medical_transformers)] 
+
+**xViTCOS: Explainable Vision Transformer Based COVID-19 Screening Using Radiography** <br>
+*Arnab Kumar Mondal, Arnab Bhattacharjee, Parag Singla, A. P. Prathosh*<br>
+[7th Jul., 2021] [IEEE Journal of Translational Engineering in Health and Medicine, 2021] \
+[[PDF](https://www.techrxiv.org/articles/preprint/xViTCOS_Explainable_Vision_Transformer_Based_COVID-19_Screening_Using_Radiography/14912367/1)] [[Github](https://github.com/arnabkmondal/xViTCOS)] 
 
 **COVID-VIT: Classification of COVID-19 from CT chest images based on vision transformer models** <br>
 *Xiaohong Gao, Yu Qian, Alice Gao*<br>
