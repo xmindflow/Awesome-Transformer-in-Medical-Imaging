@@ -34,13 +34,24 @@
 
 ### Image-Classification
 
-**Training data-efficient image transformers & distillation through attention.** [15th Jan., 2021] [ICML, 2021]<br>
-*Huisi Wu, Shihuai Chen, Guilian Chen, Wei Wang, Baiying Lei, Zhenkun Wen.*<br>
- [[PDF](https://arxiv.org/pdf/2012.12877)] [[Github](https://github.com/facebookresearch/deit)]
+. [15th May, 2021].
+.
 
-**CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification.** [22nd Aug., 2021] [ICCV, 2021]<br>
-*Chun-Fu Chen, Quanfu Fan, Rameswar Panda.*<br>
- [[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_CrossViT_Cross-Attention_Multi-Scale_Vision_Transformer_for_Image_Classification_ICCV_2021_paper.pdf)] [[Github](https://github.com/IBM/CrossViT)]
+
+**POCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound** <br>
+*Shehan Perera, Srikar Adhikari, Alper Yilmaz*<br>
+[20th May, 2021] [ICIP, 2022] \
+[[PDF](https://arxiv.org/abs/2105.09913)]
+
+**Vision transformer for classification of breast ultrasound images** <br>
+*Behnaz Gheflati, Hassan Rivaz*<br>
+[27th Oct., 2021] [EMBC, 2022] \
+[[PDF](https://arxiv.org/abs/2110.14731)] [[Github](https://github.com/ChrisMats/medical_transformers)] 
+
+**Is it Time to Replace CNNs with Transformers for Medical Images?** <br>
+*Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith*<br>
+[20th Aug., 2021] [ICCV Workshop, 2021] \
+[[PDF](https://arxiv.org/abs/2108.09038)] [[Github](https://github.com/ChrisMats/medical_transformers)] 
 
 ---
 
