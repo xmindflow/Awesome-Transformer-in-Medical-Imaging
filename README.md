@@ -74,6 +74,11 @@
 [20th May, 2021] [ICIP, 2022] \
 [[PDF](https://arxiv.org/abs/2105.09913)]
 
+**Automatic diagnosis of covid-19 using a tailored transformer-like network** <br>
+*Chengeng Liu, Qingshan Yin*<br>
+[21st Apr., 2021] [CISAT, 2021] \
+[[PDF](https://iopscience.iop.org/article/10.1088/1742-6596/2010/1/012175/pdf)] 
+
 ---
 
 ### Image-Segmentation
