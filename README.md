@@ -34,6 +34,11 @@
 
 ### Image-Classification
 
+**RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification** <br>
+*Moinak Bhattacharya, Shubham Jain, Prateek Prasanna*<br>
+[23rd Feb., 2022] [ECCV, 2022] \
+[[PDF](https://arxiv.org/pdf/2202.11781)]
+
 **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training** <br>
 *Sangjoon Park, Gwanghyun Kim, Jeongsol Kim, Boah Kim, Jong Chul Ye*<br>
 [2nd Nov., 2021] [NeurIPS, 2021] \
@@ -68,6 +73,16 @@
 *Xiaohong Gao, Yu Qian, Alice Gao*<br>
 [4th Jul., 2021] [NextComp, 2022] \
 [[PDF](https://arxiv.org/abs/2107.01682)] [[Github](https://github.com/xiaohong1/COVID-ViT)] 
+
+**TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
+*Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
+[2nd Jun., 2022] [NeurIPS, 2021] \
+[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] [[Github](https://github.com/szc19990412/TransMIL)] 
+
+**Lesion-Aware Transformers for Diabetic Retinopathy Grading** <br>
+*Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang*<br>
+[1st Jun., 2021] [CVPR, 2021] \
+[[PDF](http://openaccess.thecvf.com//content/CVPR2021/papers/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.pdf)]
 
 **POCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound** <br>
 *Shehan Perera, Srikar Adhikari, Alper Yilmaz*<br>
