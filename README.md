@@ -209,16 +209,39 @@
 [8th Feb., 2021] [arXiv, 2021] \
 [[PDF](https://arxiv.org/abs/2102.04306)] [[GitHub](https://github.com/Beckschen/TransUNet)]
 
+---
+
 ### Image Reconstruction
 
 ---
 
 ### Image Synthesizing
 
-**One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation**[28th Apr., 2022]<br>
+**One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation** <br>
 *Jiang Liu, Srivathsa Pasumarthi, Ben Duffy, Enhao Gong, Greg Zaharchuk, Keshav Datta*<br>
- [[PDF](https://arxiv.org/abs/2204.13738)] 
- 
+[28th Apr., 2022] \
+[[PDF](https://arxiv.org/abs/2204.13738)] 
+
+**CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation** <br>
+*Nicolae-Catalin Ristea, Andreea-Iuliana Miron, Olivian Savencu, Mariana-Iuliana Georgescu, Nicolae Verga, Fahad Shahbaz Khan, Radu Tudor Ionescu*<br>
+[12th Oct., 2021] [arXiv, 2021] \
+[[PDF](https://arxiv.org/abs/2110.06400)] [[GitHub](https://github.com/ristea/cycle-transformer)]
+
+**ResViT: Residual vision transformers for multi-modal medical image synthesis** <br>
+*Onat Dalmaz, Mahmut Yurt, Tolga Çukur*<br>
+[30th Jun., 2021] [TMI Journal, 2021] \
+[[PDF](https://arxiv.org/abs/2106.16031)] [[GitHub](https://github.com/icon-lab/ResViT)]
+
+**PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer** <br>
+*Xuzhe Zhang, Xinzi He, Jia Guo, Nabil Ettehadi, Natalie Aw, David Semanek, Jonathan Posner, Andrew Laine, Yun Wang*<br>
+[28th May., 2021] [arXiv, 2021] \
+[[PDF](https://arxiv.org/abs/2105.13993)] [[GitHub](https://github.com/XuzheZ/PTNet3D)]
+
+**VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers** <br>
+*Sharif Amit Kamran, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Salah A. Baker*<br>
+[14th Apr., 2021] [ICCV Workshop, 2021] \
+[[PDF](https://arxiv.org/abs/2104.06757)] [[GitHub](https://github.com/SharifAmit/VTGAN)]
+
 ---
 
 ### Object Detection
@@ -352,7 +375,7 @@
 
 **Learning to Generate Clinically Coherent Chest X-Ray Reports.** <br>
 *Justin Lovelace, Bobak Mortazavi.*<br>
-[16th Jul., 2021] [emnlp, 2020] \
+[16th Jul., 2021] [EMNLP, 2020] \
 [[PDF](https://aclanthology.org/2020.findings-emnlp.110/)] [[GitHub](https://github.com/justinlovelace/coherent-xray-report-generation)]
 
 **Surgical Instruction Generation with Transformers.**<br>
