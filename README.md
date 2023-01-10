@@ -27,7 +27,6 @@
   - [Image Reconstruction](#image-reconstruction)
   - [Image Synthesizing](#image-synthesizing)
   - [Object Detection](#object-detection)
-  - [Image Denoising](#image-denoising)
   - [Image Registration](#image-registration)
   - [Report Generation](#report-generation)
 
