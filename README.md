@@ -214,6 +214,10 @@
 ---
 
 ### Image Reconstruction
+**TransCT: Dual-path Transformer for Low Dose Computed Tomography** <br>
+*Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing*<br>
+[28th Feb., 2021] \
+[[PDF](https://arxiv.org/abs/2103.00634)] [[GitHub](https://github.com/zzc623/TransCT)]
 
 ---
 
