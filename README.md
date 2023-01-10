@@ -269,11 +269,6 @@
 [23th Mar., 2022] [arXiv, 2022]\
 [[PDF](https://arxiv.org/abs/2203.12476)]
 
-**Adaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction** <br>
-*Minghui Wu, Yangdi Xu, Yingying Xu, Guangwei Wu, Qingqing Chen, Hongxiang Lin*<br>
-[23th Mar., 2022] [arXiv, 2022]\
-[[PDF](https://arxiv.org/abs/2203.12476)]
-
 **Vision Transformers Enable Fast and Robust Accelerated MRI** <br>
 *Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu*<br>
 [10th Dec., 2021] [MIDL, 2022]\
