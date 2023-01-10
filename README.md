@@ -10,7 +10,12 @@
 #### Citation
 
 ```
-
+@article{azad2023advances,
+  title={Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review},
+  author={Azad, Reza and Kazerouni, Amirhossein and Heidari, Moein and Aghdam, Ehsan Khodapanah and Molaei, Amirali and Jia, Yiwei and Jose, Abin and Roy, Rijo and Merhof, Dorit},
+  journal={arXiv preprint arXiv:2301.03505},
+  year={2023}
+}
 ```
 
 ## Contents
