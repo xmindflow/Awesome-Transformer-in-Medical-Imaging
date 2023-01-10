@@ -247,7 +247,52 @@
 **Low-Dose CT Denoising via Sinogram Inner-Structure Transformer** <br>
 *Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang*<br>
 [7th Apr., 2022] [IEEE Transactions on Medical Imaging, 2022]\
-[[PDF](https://arxiv.org/abs/2204.03163)] 
+[[PDF](https://arxiv.org/abs/2204.03163)]
+
+**DuDoTrans: Dual-Domain Transformer Provides More Attention for Sinogram Restoration in Sparse-View CT Reconstruction** <br>
+*Ce Wang, Kun Shang, Haimiao Zhang, Qian Li, Yuan Hui, S. Kevin Zhou*<br>
+[21th Nov., 2021] [arXiv, 2021]\
+[[PDF](https://arxiv.org/abs/2111.10790)] [[GitHub](https://github.com/DuDoTrans/CODE)]
+
+**Fourier Image Transformer** <br>
+*Tim-Oliver Buchholz, Florian Jug*<br>
+[6th Apr., 2021] [CVPR, 2022]\
+[[PDF](https://openaccess.thecvf.com/content/CVPR2022W/CVMI/html/Buchholz_Fourier_Image_Transformer_CVPRW_2022_paper.html)] [[GitHub](https://github.com/juglab/FourierImageTransformer)]
+
+**Dual-domain sparse-view CT reconstruction with Transformers** <br>
+*Changrong Shi, Yongshun Xiao, Zhiqiang Chen*<br>
+[22nd Mar., 2022] [ELSEVIER Physica Medica, 2022]\
+[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1120179722020154)]
+
+**Adaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction** <br>
+*Minghui Wu, Yangdi Xu, Yingying Xu, Guangwei Wu, Qingqing Chen, Hongxiang Lin*<br>
+[23th Mar., 2022] [arXiv, 2022]\
+[[PDF](https://arxiv.org/abs/2203.12476)]
+
+**Adaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction** <br>
+*Minghui Wu, Yangdi Xu, Yingying Xu, Guangwei Wu, Qingqing Chen, Hongxiang Lin*<br>
+[23th Mar., 2022] [arXiv, 2022]\
+[[PDF](https://arxiv.org/abs/2203.12476)]
+
+**Vision Transformers Enable Fast and Robust Accelerated MRI** <br>
+*Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu*<br>
+[10th Dec., 2021] [MIDL, 2022]\
+[[PDF](https://proceedings.mlr.press/v172/lin22a.html)] [[GitHub](https://github.com/MLI-lab/transformers_for_imaging)]
+
+**Task Transformer Network for Joint MRI Reconstruction and Super-Resolution** <br>
+*Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu*<br>
+[12th Jun., 2021] [MICCAI, 2021]\
+[[PDF](https://arxiv.org/abs/2106.06742)] [[GitHub](https://github.com/chunmeifeng/T2Net)]
+
+**MR Image Super Resolution By Combining Feature Disentanglement CNNs and Vision Transformers** <br>
+*Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu*<br>
+[9th Dec., 2021] [MIDL, 2022]\
+[[PDF](https://proceedings.mlr.press/v172/mahapatra22a.html)]
+
+**Cross-Modality High-Frequency Transformer for MR Image Super-Resolution** <br>
+*Chaowei Fang, Dingwen Zhang, Liang Wang, Yulun Zhang, Lechao Cheng, Junwei Han*<br>
+[29th Mar., 2022] [ACM MM, 2022]\
+[[PDF](https://arxiv.org/abs/2203.15314)]
 
 ---
 
