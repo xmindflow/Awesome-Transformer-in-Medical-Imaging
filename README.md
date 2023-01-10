@@ -34,6 +34,17 @@
 
 ### Image Classification
 
+
+**HATNet: An End-to-End Holistic Attention Network for Diagnosis of Breast Biopsy Images** <br>
+*Sachin Mehta, Ximing Lu, Donald Weaver, Joann G. Elmore, Hannaneh Hajishirzi, Linda Shapiro*<br>
+[25th Jul, 2020] [MedIA Journal, 2022] \
+[[PDF](https://arxiv.org/abs/2007.13007)] [[GitHub](https://github.com/sacmehta/HATNet)]
+
+**TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
+*Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
+[2nd Jun., 2022] [NeurIPS, 2021] \
+[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] [[GitHub](https://github.com/szc19990412/TransMIL)] 
+
 **A graph-transformer for whole slide image classification** <br>
 *Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama*<br>
 [19th May, 2022] [TMI Journal, 2022] \
@@ -49,6 +60,11 @@
 [2nd Nov., 2021] [NeurIPS, 2021] \
 [[PDF](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwijh4Dj5Kb8AhUnRvEDHZWQByUQFnoECA8QAQ&url=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DGgikq6Tdxch&usg=AOvVaw2FRmFAEyk1osGtkMa8nXWL)] 
 
+**Vision transformer for classification of breast ultrasound images** <br>
+*Behnaz Gheflati, Hassan Rivaz*<br>
+[27th Oct., 2021] [EMBC, 2022] \
+[[PDF](https://arxiv.org/abs/2110.14731)]
+
 **MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification** <br>
 *Shuang Yu, Kai Ma, Qi Bi, Cheng Bian, Munan Ning, Nanjun He, Yuexiang Li, Hanruo Liu, Yefeng Zheng*<br>
 [21st Sep., 2021] [MICCAI, 2021] \
@@ -63,11 +79,6 @@
 *Debaditya Shome, T. Kar, Sachi Nandan Mohanty, Prayag Tiwari, Khan Muhammad, Abdullah AlTameem, Yazhou Zhang, Abdul Khader Jilani Saudagar*<br>
 [23rd Sep., 2021] [International Journal of Environmental Research and Public Health, 2021] \
 [[PDF](https://www.mdpi.com/1660-4601/18/21/11086)] [[GitHub](https://github.com/DebadityaShome/COVID-Transformer)] 
-
-**Vision transformer for classification of breast ultrasound images** <br>
-*Behnaz Gheflati, Hassan Rivaz*<br>
-[27th Oct., 2021] [EMBC, 2022] \
-[[PDF](https://arxiv.org/abs/2110.14731)]
 
 **Is it Time to Replace CNNs with Transformers for Medical Images?** <br>
 *Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith*<br>
@@ -88,11 +99,6 @@
 *Xiaohong Gao, Yu Qian, Alice Gao*<br>
 [4th Jul., 2021] [NextComp, 2022] \
 [[PDF](https://arxiv.org/abs/2107.01682)] [[GitHub](https://github.com/xiaohong1/COVID-ViT)] 
-
-**TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
-*Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
-[2nd Jun., 2022] [NeurIPS, 2021] \
-[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] [[GitHub](https://github.com/szc19990412/TransMIL)] 
 
 **Lesion-Aware Transformers for Diabetic Retinopathy Grading** <br>
 *Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang*<br>
@@ -118,11 +124,6 @@
 *Yin Dai, Yifan Gao*<br>
 [10th Mar., 2021] [Diagnostics, 2021] \
 [[PDF](https://arxiv.org/abs/2103.05940)]
-
-**HATNet: An End-to-End Holistic Attention Network for Diagnosis of Breast Biopsy Images** <br>
-*Sachin Mehta, Ximing Lu, Donald Weaver, Joann G. Elmore, Hannaneh Hajishirzi, Linda Shapiro*<br>
-[25th Jul, 2020] [MedIA Journal, 2022] \
-[[PDF](https://arxiv.org/abs/2007.13007)] [[GitHub](https://github.com/sacmehta/HATNet)]
 
 ---
 
