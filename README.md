@@ -5,7 +5,7 @@
 
 :fire::fire:This is a collection of awesome articles about Transformer models in the medical imaging:fire::fire:
 
-:loudspeaker: Our review paper published on arXiv: [Medical Image Analysis with Transformers: A Review](https://arxiv.org/abs/2301.03505.pdf) :heart:
+:loudspeaker: Our review paper published on arXiv: [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505.pdf) :heart:
 
 #### Citation
 
