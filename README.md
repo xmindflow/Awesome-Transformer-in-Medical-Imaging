@@ -36,7 +36,7 @@
 
 **A graph-transformer for whole slide image classification** <br>
 *Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama*<br>
-[19th May, 2022] [IEEE Transactions on Medical Imaging, 2022] \
+[19th May, 2022] [IEEE TMI, 2022] \
 [[PDF](https://arxiv.org/abs/2205.09671)] [[GitHub](https://github.com/vkola-lab/tmi2022)]
 
 **RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification** <br>
