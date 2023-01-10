@@ -129,86 +129,85 @@
 
 ### Image Segmentation
 
-**Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation**<br>
-*Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang*  <br>
-[12th May, 2021] [arXiv, 2021] \
-[[PDF](https://arxiv.org/abs/2105.05537)] [[GitHub](https://github.com/HuCaoFighting/Swin-Unet)]
-
-**nnFormer: Interleaved Transformer for Volumetric Segmentation**<br>
-*Hong-Yu Zhou, Jiansen Guo, Yinghao Zhang, Lequan Yu, Liansheng Wang, Yizhou Yu*<br>
-[7th Sep., 2021] [arXiv, 2021] \
-[[PDF]](https://arxiv.org/abs/2109.03201) [[GitHub](https://github.com/282857341/nnFormer)]
-
-**MISSFormer: An Effective Medical Image Segmentation Transformer**<br>
-*Xiaohong Huang, Zhifang Deng, Dandan Li, Xueguang Yuan*<br>
-[15th Sep., 2021] [TMI Journal, 2022] \
-[[PDF]](https://arxiv.org/abs/2109.07162) [[GitHub](https://github.com/ZhifangDeng/MISSFormer)]
-
 **TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation** <br>
 *Reza Azad, Moein Heidari, Moein Shariatnia, Ehsan Khodapanah Aghdam, Sanaz Karimijafarbigloo, Ehsan Adeli, Dorit Merhof*<br>
 [1st Aug., 2022] [MICCAI Workshop, 2022] \
 [[PDF]](https://arxiv.org/abs/2208.00713) [[GitHub](https://github.com/rezazad68/transdeeplab)]
-
-**TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
-*Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
-[8th Feb., 2021] [arXiv, 2021] \
-[[PDF](https://arxiv.org/abs/2102.04306)] [[GitHub](https://github.com/Beckschen/TransUNet)]
-
-**TransBTS: Multimodal Brain Tumor Segmentation Using Transformer**<br>
-*Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang*<br>
-[7th Mar, 2021] [MICCAI, 2021] \
- [[PDF](https://arxiv.org/abs/2103.04430)] [[GitHub](https://github.com/Wenxuan-1119/TransBTS)]
-
-**TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation**<br>
-*Yundong Zhang, Huiye Liu, Qiang Hu*<br>
-[16th Feb., 2021] [arXiv, 2021] \
- [[PDF](https://arxiv.org/abs/2102.08005)] [[GitHub](https://github.com/Rayicer/TransFuse)]
-
-**Medical Transformer: Gated Axial-Attention for Medical Image Segmentation**<br>
-*Jeya Maria Jose Valanarasu, Poojan Oza, Ilker Hacihaliloglu, Vishal M. Patel*<br>
-[21th Feb., 2021] [MICCAI, 2021] \
- [[PDF](https://arxiv.org/abs/2102.10662)] [[GitHub](https://github.com/jeya-maria-jose/Medical-Transformer)]
-
-**UNETR: Transformers for 3D Medical Image Segmentation**<br>
-*Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
-[18th Mar., 2021] [WACV, 2022] \
- [[PDF](https://arxiv.org/abs/2103.10504)] [[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV)]
-
-**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**<br>
-*Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu*  <br>
-[4th Jan., 2022] [MICCAI Workshop] \
-[[PDF](https://arxiv.org/abs/2201.01266)] [[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)]
-
-**CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation**  <br>
-*Yutong Xie, Jianpeng Zhang, Chunhua Shen, Yong Xia* <br>
-[4th Mar., 2021] [MICCAI, 2021] \
-[[PDF](https://arxiv.org/abs/2103.03024)] [[GitHub](https://github.com/YtongXie/CoTr)]
 
 **HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation**<br>
 *Moein Heidari, Amirhossein Kazerouni, Milad Soltany, Reza Azad, Ehsan Khodapanah, Aghdam Julien Cohen-Adad, Dorit Merhof*<br>
 [18th Jul., 2022][WACV, 2023] \
 [[PDF]](https://arxiv.org/abs/2207.08518) [[GitHub](https://github.com/amirhossein-kz/HiFormer)]
 
-**Medical Image Segmentation Using Squeeze-and-Expansion Transformers**<br>
-*Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh*<br>
-[20th May, 2021] [IJCAI, 2021] \
-[[PDF](https://arxiv.org/abs/2105.09511)] [[GitHub](https://github.com/askerlee/segtran)]
+**Self Pre-training with Masked Autoencoders for Medical Image Analysis**<br>
+*Lei Zhou, Huidong Liu, Joseph Bae, Junjun He, Dimitris Samaras, Prateek Prasanna*<br>
+[10th Mar., 2022] [arXiv, 2022] \
+[[PDF](https://arxiv.org/abs/2203.05573)] 
+
+**Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images**<br>
+*Ali Hatamizadeh, Vishwesh Nath, Yucheng Tang, Dong Yang, Holger Roth, Daguang Xu*  <br>
+[4th Jan., 2022] [MICCAI Workshop] \
+[[PDF](https://arxiv.org/abs/2201.01266)] [[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/SwinUNETR)]
+
+**Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
+*Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
+[9th Dec., 2021] [MIDL, 2022] \
+[[PDF](https://arxiv.org/abs/2112.04894)] [[Github](https://github.com/HiLab-git/SSL4MIS)]
 
 **T-AutoML: Automated Machine Learning for Lesion Segmentation using Transformers in 3D Medical Imaging**<br>
 *Dong Yang, Andriy Myronenko, Xiaosong Wang, Ziyue Xu, Holger R. Roth, Daguang Xu*<br>
 [15th Nov., 2021] [ICCV, 2021] \
 [[PDF](https://arxiv.org/abs/2111.07535)]
 
-**Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer**<br>
-*Xiangde Luo, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang*<br>
-[9th Dec., 2021] [MIDL, 2022] \
- [[PDF](https://arxiv.org/abs/2112.04894)] [[Github](https://github.com/HiLab-git/SSL4MIS)]
+**MISSFormer: An Effective Medical Image Segmentation Transformer**<br>
+*Xiaohong Huang, Zhifang Deng, Dandan Li, Xueguang Yuan*<br>
+[15th Sep., 2021] [TMI Journal, 2022] \
+[[PDF]](https://arxiv.org/abs/2109.07162) [[GitHub](https://github.com/ZhifangDeng/MISSFormer)]
 
-**Self Pre-training with Masked Autoencoders for Medical Image Analysis**<br>
-*Lei Zhou, Huidong Liu, Joseph Bae, Junjun He, Dimitris Samaras, Prateek Prasanna*<br>
-[10th Mar., 2022] [arXiv, 2022] \
-[[PDF](https://arxiv.org/abs/2203.05573)] 
+**nnFormer: Interleaved Transformer for Volumetric Segmentation**<br>
+*Hong-Yu Zhou, Jiansen Guo, Yinghao Zhang, Lequan Yu, Liansheng Wang, Yizhou Yu*<br>
+[7th Sep., 2021] [arXiv, 2021] \
+[[PDF]](https://arxiv.org/abs/2109.03201) [[GitHub](https://github.com/282857341/nnFormer)]
 
+**Medical Image Segmentation Using Squeeze-and-Expansion Transformers**<br>
+*Shaohua Li, Xiuchao Sui, Xiangde Luo, Xinxing Xu, Yong Liu, Rick Goh*<br>
+[20th May, 2021] [IJCAI, 2021] \
+[[PDF](https://arxiv.org/abs/2105.09511)] [[GitHub](https://github.com/askerlee/segtran)]
+
+**Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation**<br>
+*Hu Cao, Yueyue Wang, Joy Chen, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian, Manning Wang*  <br>
+[12th May, 2021] [arXiv, 2021] \
+[[PDF](https://arxiv.org/abs/2105.05537)] [[GitHub](https://github.com/HuCaoFighting/Swin-Unet)]
+
+**UNETR: Transformers for 3D Medical Image Segmentation**<br>
+*Ali Hatamizadeh, Yucheng Tang, Vishwesh Nath, Dong Yang, Andriy Myronenko, Bennett Landman, Holger Roth, Daguang Xu*<br>
+[18th Mar., 2021] [WACV, 2022] \
+[[PDF](https://arxiv.org/abs/2103.10504)] [[GitHub](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV)]
+ 
+**TransBTS: Multimodal Brain Tumor Segmentation Using Transformer**<br>
+*Jiangyun Li, Wenxuan Wang, Chen Chen, Tianxiang Zhang, Sen Zha, Hong Yu, Jing Wang*<br>
+[7th Mar, 2021] [MICCAI, 2021] \
+[[PDF](https://arxiv.org/abs/2103.04430)] [[GitHub](https://github.com/Wenxuan-1119/TransBTS)]
+
+**CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation**  <br>
+*Yutong Xie, Jianpeng Zhang, Chunhua Shen, Yong Xia* <br>
+[4th Mar., 2021] [MICCAI, 2021] \
+[[PDF](https://arxiv.org/abs/2103.03024)] [[GitHub](https://github.com/YtongXie/CoTr)]
+
+**Medical Transformer: Gated Axial-Attention for Medical Image Segmentation**<br>
+*Jeya Maria Jose Valanarasu, Poojan Oza, Ilker Hacihaliloglu, Vishal M. Patel*<br>
+[21th Feb., 2021] [MICCAI, 2021] \
+[[PDF](https://arxiv.org/abs/2102.10662)] [[GitHub](https://github.com/jeya-maria-jose/Medical-Transformer)]
+ 
+**TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation**<br>
+*Yundong Zhang, Huiye Liu, Qiang Hu*<br>
+[16th Feb., 2021] [arXiv, 2021] \
+[[PDF](https://arxiv.org/abs/2102.08005)] [[GitHub](https://github.com/Rayicer/TransFuse)]
+
+**TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation** <br>
+*Jieneng Chen, Yongyi Lu, Qihang Yu, Xiangde Luo, Ehsan Adeli, Yan Wang, Le Lu, Alan L. Yuille, Yuyin Zhou*<br>
+[8th Feb., 2021] [arXiv, 2021] \
+[[PDF](https://arxiv.org/abs/2102.04306)] [[GitHub](https://github.com/Beckschen/TransUNet)]
 
 ### Image Reconstruction
 
