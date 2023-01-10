@@ -324,35 +324,35 @@
 
 ### Image Registration
 
-**ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** <br>
-*Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du.*<br>
-[13th Apr., 2021] \
-[[PDF](https://arxiv.org/abs/2104.06468)] [[GitHub](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)]
-
-**TransMorph: Transformer for unsupervised medical image registration.** <br>
-*Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du.*<br>
-[19th Nov., 2021] \
-[[PDF](https://arxiv.org/abs/2111.10480)] [[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
-
-**Affine Medical Image Registration with Coarse-to-Fine Vision Transformer.** <br>
-*Tony C. W. Mok, Albert C. S. Chung.*<br>
-[29th Mar., 2022] [CVPR, 2021] \
-[[PDF](https://arxiv.org/abs/2203.15216)] [[GitHub](https://github.com/cwmok/C2FViT)]
-
-**Learning dual transformer network for diffeomorphic registration.** <br>
-*Yungeng Zhang, Yuru Pei & Hongbin Zha.*<br>
-[21th Sep., 2021] [MICCAI, 2021] \
-[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_13)]
-
-**XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention.**<br>
-*Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li.*<br>
-[15th Jun., 2022] [MICCAI, 2021] \
-[[PDF](https://arxiv.org/abs/2206.07349)] [[GitHub](https://github.com/solemoon/xmorpher)]
-
 **SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI.** <br>
 *Junshen Xu, Daniel Moyer, P. Ellen Grant, Polina Golland, Juan Eugenio Iglesias, Elfar Adalsteinsson.*<br>
 [22th Jun., 2022] [MICCAI, 2022] \
 [[PDF](https://arxiv.org/abs/2206.10802?context=eess)] [[GitHub](https://github.com/daviddmc/svort)]
+
+**XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention**<br>
+*Jiacheng Shi, Yuting He, Youyong Kong, Jean-Louis Coatrieux, Huazhong Shu, Guanyu Yang, Shuo Li*<br>
+[15th Jun., 2022] [MICCAI, 2022] \
+[[PDF](https://arxiv.org/abs/2206.07349)] [[GitHub](https://github.com/solemoon/xmorpher)]
+
+**TransMorph: Transformer for unsupervised medical image registration** <br>
+*Junyu Chen, Eric C. Frey, Yufan He, William P. Segars, Ye Li, Yong Du*<br>
+[19th Nov., 2021] [MedIA Journal]\
+[[PDF](https://arxiv.org/abs/2111.10480)] [[GitHub](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
+
+**Learning dual transformer network for diffeomorphic registration** <br>
+*Yungeng Zhang, Yuru Pei & Hongbin Zha*<br>
+[21th Sep., 2021] [MICCAI, 2021] \
+[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_13)]
+
+**ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration** <br>
+*Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du*<br>
+[13th Apr., 2021] [MIDL, 2021] \
+[[PDF](https://arxiv.org/abs/2104.06468)] [[GitHub](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)]
+
+**Affine Medical Image Registration with Coarse-to-Fine Vision Transformer** <br>
+*Tony C. W. Mok, Albert C. S. Chung*<br>
+[29th Mar., 2022] [CVPR, 2022] \
+[[PDF](https://arxiv.org/abs/2203.15216)] [[GitHub](https://github.com/cwmok/C2FViT)]
 
 ---
 
