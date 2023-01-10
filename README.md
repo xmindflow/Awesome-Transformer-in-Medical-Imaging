@@ -214,10 +214,41 @@
 ---
 
 ### Image Reconstruction
+
 **TransCT: Dual-path Transformer for Low Dose Computed Tomography** <br>
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing*<br>
-[28th Feb., 2021] \
+[28th Feb., 2021] [MICCAI, 2021] \
 [[PDF](https://arxiv.org/abs/2103.00634)] [[GitHub](https://github.com/zzc623/TransCT)]
+
+**TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising** <br>
+*Dayang Wang, Zhan Wu, Hengyong Yu*<br>
+[8th Jun., 2021] [MICCAI Workshop, 2021]\
+[[PDF](https://arxiv.org/abs/2106.04650)] [[GitHub](https://github.com/wdayang/CTformer)]
+
+**Eformer: Edge Enhancement based Transformer for Medical Image Denoising** <br>
+*Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav*<br>
+[16th Sep., 2021] [arXiv, 2021]\
+[[PDF](https://arxiv.org/abs/2109.08044)]
+
+**Eformer: Edge Enhancement based Transformer for Medical Image Denoising** <br>
+*Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav*<br>
+[16th Sep., 2021] [arXiv, 2021]\
+[[PDF](https://arxiv.org/abs/2109.08044)]
+
+**3D Transformer-GAN for High-Quality PET Reconstruction** <br>
+*Yanmei Luo, Yan Wang, Chen Zu, Bo Zhan, Xi Wu, Jiliu Zhou, Dinggang Shen, Luping Zhou*<br>
+[21st Sep., 2021] [MICCAI, 2021]\
+[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_27)]
+
+**Spatial Adaptive and Transformer Fusion Network (STFNet) for Low-count PET Blind Denoising with MRI** <br>
+*Lipei Zhang, Zizheng Xiao, Chao Zhou, Jianmin Yuan, Qiang He, Yongfeng Yang, Xin Liu, Dong Liang, Hairong Zheng, Wei Fan, Xu Zhang, Zhanli Hu*<br>
+[19th Nov., 2021] [Medical Physics, 2021]\
+[[PDF](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15368)]
+
+**CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising** <br>
+*Dayang Wang, Fenglei Fan, Zhan Wu, Rui Liu, Fei Wang, Hengyong Yu*<br>
+[28th Feb., 2022] [arXiv, 2022]\
+[[PDF](https://arxiv.org/abs/2202.13517)] [[GitHub](https://github.com/wdayang/CTformer)]
 
 ---
 
@@ -225,7 +256,7 @@
 
 **One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation** <br>
 *Jiang Liu, Srivathsa Pasumarthi, Ben Duffy, Enhao Gong, Greg Zaharchuk, Keshav Datta*<br>
-[28th Apr., 2022] \
+[28th Apr., 2022] [arXiv, 2021]\
 [[PDF](https://arxiv.org/abs/2204.13738)] 
 
 **CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation** <br>
