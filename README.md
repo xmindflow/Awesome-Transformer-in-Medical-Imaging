@@ -358,62 +358,62 @@
 
 ### Report Generation
 
-**Knowledge-driven Encode, Retrieve, Paraphrase for Medical Image Report Generation.** <br>
-*Christy Y. Li, Xiaodan Liang, Zhiting Hu, Eric P. Xing.*<br>
-[25th Mar., 2019] [AAAI, 2019] \
-[[PDF](https://arxiv.org/abs/1903.10122)] 
+**Cross-modal Memory Networks for Radiology Report Generation** <br>
+*Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan*<br>
+[28th Apr., 2022] [ACL-IJCNLP, 2021] \
+[[PDF](https://arxiv.org/abs/2204.13258)] [[GitHub](https://github.com/zhjohnchan/R2GenCMN)]
 
-**Reinforced Transformer for Medical Image Captioning.** <br>
-*Yuxuan Xiong, Bo Du, Pingkun Yan.*<br>
-[10th Oct., 2019] \
-[[PDF](https://doi.org/10.1007/978-3-030-32692-0_77)]
-
-**Generating Radiology Reports via Memory-driven Transformer.**<br>
-*Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
-[28th Apr., 2022] [EMNLP, 2020] \
-[[PDF](https://arxiv.org/abs/2010.16056)] [[GitHub](https://github.com/cuhksz-nlp/R2Gen)]
-
-**Learning to Generate Clinically Coherent Chest X-Ray Reports.** <br>
-*Justin Lovelace, Bobak Mortazavi.*<br>
-[16th Jul., 2021] [EMNLP, 2020] \
-[[PDF](https://aclanthology.org/2020.findings-emnlp.110/)] [[GitHub](https://github.com/justinlovelace/coherent-xray-report-generation)]
-
-**Surgical Instruction Generation with Transformers.**<br>
-*Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang.*<br>
-[16th Jul., 2021] [MICCAI, 2021] \
-[[PDF](https://arxiv.org/abs/2107.06964)] 
-
-**Automated Generation of Accurate \& Fluent Medical X-ray Reports.** <br>
-*Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng.*<br>
-[27th Jul., 2021] [EMNLP, 2021] \
-[[PDF](https://arxiv.org/abs/2108.12126)] [[GitHub](https://github.com/ginobilinie/xray_report_generation)]
-
-**Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation.** <br>
-*Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou.*<br>
-[13th Jun., 2021] [CVPR, 2021] \
-[[PDF](https://arxiv.org/abs/2106.06963)]
-
-**Medical-vlbert: Medical visual language bert for covid-19 ct report generation with alternate learning.** <br>
-*Guangyi Liu, Yinghong Liao, Fuyu Wang, Bin Zhang, Lu Zhang, Xiaodan Liang, Xiang Wan, Shaolin Li, Zhen Li, Shuixing Zhang, Shuguang Cui.*<br>
-[18th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2021] \
-[[PDF](https://arxiv.org/abs/2108.05067)] 
-
-**Progressive Transformer-Based Generation of Radiology Reports.** <br>
-*Farhad Nooralahzadeh, Nicolas Perez Gonzalez, Thomas Frauenfelder, Koji Fujimoto, Michael Krauthammer.*<br>
-[31th Aug., 2021] [arXiv , 2021] \
-[[PDF](https://arxiv.org/abs/2102.09777)] [[GitHub](https://github.com/uzh-dqbm-cmi/argon)]
- 
-**Trust It or Not: Confidence-Guided Automatic Radiology Report Generation.** <br>
-*Yixin Wang, Zihao Lin, Zhe Xu, Haoyu Dong, Jiang Tian, Jie Luo, Zhongchao Shi, Yang Zhang, Jianping Fan, Zhiqiang He.*<br>
-[3th Feb., 2022] [arXiv , 2021] \
-[[PDF](https://arxiv.org/abs/2106.10887)]
-
-**AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation.** <br>
-*Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu.*<br>
+**AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation** <br>
+*Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu*<br>
 [18th Mar., 2022] [MICCAI, 2021] \
 [[PDF](https://arxiv.org/abs/2203.10095)] 
 
-**Cross-modal Memory Networks for Radiology Report Generation.** <br>
-*Zhihong Chen, Yaling Shen, Yan Song, Xiang Wan.*<br>
-[28th Apr., 2022] [arXiv, 2022] \
-[[PDF](https://arxiv.org/abs/2204.13258)] [[GitHub](https://github.com/zhjohnchan/R2GenCMN)]
+**Automated Generation of Accurate \& Fluent Medical X-ray Reports** <br>
+*Hoang T.N. Nguyen, Dong Nie, Taivanbat Badamdorj, Yujie Liu, Yingying Zhu, Jason Truong, Li Cheng*<br>
+[27th Aug., 2021] [EMNLP, 2021] \
+[[PDF](https://arxiv.org/abs/2108.12126)] [[GitHub](https://github.com/ginobilinie/xray_report_generation)]
+
+**Medical-vlbert: Medical visual language bert for covid-19 ct report generation with alternate learning** <br>
+*Guangyi Liu, Yinghong Liao, Fuyu Wang, Bin Zhang, Lu Zhang, Xiaodan Liang, Xiang Wan, Shaolin Li, Zhen Li, Shuixing Zhang, Shuguang Cui*<br>
+[11th Aug., 2021] [IEEE Transactions on Neural Networks and Learning Systems, 2021] \
+[[PDF](https://arxiv.org/abs/2108.05067)] 
+
+**Surgical Instruction Generation with Transformers**<br>
+*Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang*<br>
+[14th Jul., 2021] [MICCAI, 2021] \
+[[PDF](https://arxiv.org/abs/2107.06964)] 
+
+**Trust It or Not: Confidence-Guided Automatic Radiology Report Generation** <br>
+*Yixin Wang, Zihao Lin, Zhe Xu, Haoyu Dong, Jiang Tian, Jie Luo, Zhongchao Shi, Yang Zhang, Jianping Fan, Zhiqiang He*<br>
+[21st Jun., 2021] [arXiv , 2021] \
+[[PDF](https://arxiv.org/abs/2106.10887)]
+
+**Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation** <br>
+*Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou*<br>
+[13th Jun., 2021] [CVPR, 2021] \
+[[PDF](https://arxiv.org/abs/2106.06963)]
+
+**Progressive Transformer-Based Generation of Radiology Reports** <br>
+*Farhad Nooralahzadeh, Nicolas Perez Gonzalez, Thomas Frauenfelder, Koji Fujimoto, Michael Krauthammer*<br>
+[19th Feb., 2021] [EMNLP , 2021] \
+[[PDF](https://arxiv.org/abs/2102.09777)] [[GitHub](https://github.com/uzh-dqbm-cmi/argon)]
+
+**Learning to Generate Clinically Coherent Chest X-Ray Reports** <br>
+*Justin Lovelace, Bobak Mortazavi*<br>
+[1st Nov., 2020] [EMNLP, 2020] \
+[[PDF](https://aclanthology.org/2020.findings-emnlp.110/)] [[GitHub](https://github.com/justinlovelace/coherent-xray-report-generation)]
+
+**Generating Radiology Reports via Memory-driven Transformer**<br>
+*Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan*<br>
+[30th Oct., 2020] [EMNLP, 2020] \
+[[PDF](https://arxiv.org/abs/2010.16056)] [[GitHub](https://github.com/cuhksz-nlp/R2Gen)]
+
+**Reinforced Transformer for Medical Image Captioning** <br>
+*Yuxuan Xiong, Bo Du, Pingkun Yan*<br>
+[10th Oct., 2019][MICCAI Workshop, 2019] \
+[[PDF](https://doi.org/10.1007/978-3-030-32692-0_77)]
+
+**Knowledge-driven Encode, Retrieve, Paraphrase for Medical Image Report Generation** <br>
+*Christy Y. Li, Xiaodan Liang, Zhiting Hu, Eric P. Xing*<br>
+[25th Mar., 2019] [AAAI, 2019] \
+[[PDF](https://arxiv.org/abs/1903.10122)] 
