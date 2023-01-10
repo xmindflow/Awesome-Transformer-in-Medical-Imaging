@@ -230,11 +230,6 @@
 [16th Sep., 2021] [arXiv, 2021]\
 [[PDF](https://arxiv.org/abs/2109.08044)]
 
-**Eformer: Edge Enhancement based Transformer for Medical Image Denoising** <br>
-*Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav*<br>
-[16th Sep., 2021] [arXiv, 2021]\
-[[PDF](https://arxiv.org/abs/2109.08044)]
-
 **3D Transformer-GAN for High-Quality PET Reconstruction** <br>
 *Yanmei Luo, Yan Wang, Chen Zu, Bo Zhan, Xi Wu, Jiliu Zhou, Dinggang Shen, Luping Zhou*<br>
 [21st Sep., 2021] [MICCAI, 2021]\
