@@ -15,8 +15,6 @@
 
 ## Contents
 
-- [Survey Papers in Vision](#survey-papers-in-vision)
-
 - [Papers](#papers)
   
   - [Image Classification](#image-classification)
@@ -28,7 +26,6 @@
   - [Image Registration](#image-registration)
   - [Report Generation](#report-generation)
 
-## Survey Papers in Vision
 
 ## Papers
 
