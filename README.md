@@ -20,7 +20,7 @@
 
 ## Contents
 
-- [Taxonamy](#taxonamy)
+- [Taxonomy](#taxonomy)
 - [Papers](#papers)
   
   - [Image Classification](#image-classification)
@@ -32,7 +32,7 @@
   - [Report Generation](#report-generation)
 
 
-## Taxonamy
+## Taxonomy
 
 ![Transformers](https://user-images.githubusercontent.com/61879630/211773884-160e3917-c0f4-45cf-947e-e7fa84b2892e.png)
 
@@ -143,7 +143,7 @@
 
 **HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation**<br>
 *Moein Heidari, Amirhossein Kazerouni, Milad Soltany, Reza Azad, Ehsan Khodapanah, Aghdam Julien Cohen-Adad, Dorit Merhof*<br>
-[18th Jul., 2022][WACV, 2023] \
+[18th Jul., 2022] [WACV, 2023] \
 [[PDF]](https://arxiv.org/abs/2207.08518) [[GitHub](https://github.com/amirhossein-kz/HiFormer)]
 
 **Self Pre-training with Masked Autoencoders for Medical Image Analysis**<br>
