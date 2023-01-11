@@ -20,6 +20,7 @@
 
 ## Contents
 
+- [Taxonamy](#taxonamy)
 - [Papers](#papers)
   
   - [Image Classification](#image-classification)
@@ -29,6 +30,11 @@
   - [Object Detection](#object-detection)
   - [Image Registration](#image-registration)
   - [Report Generation](#report-generation)
+
+
+## Taxonamy
+
+![Transformers](https://user-images.githubusercontent.com/61879630/211773884-160e3917-c0f4-45cf-947e-e7fa84b2892e.png)
 
 
 ## Papers
