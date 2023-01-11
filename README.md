@@ -41,11 +41,6 @@
 [25th Jul, 2020] [MedIA Journal, 2022] \
 [[PDF](https://arxiv.org/abs/2007.13007)] [[GitHub](https://github.com/sacmehta/HATNet)]
 
-**TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
-*Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
-[2nd Jun., 2022] [NeurIPS, 2021] \
-[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] [[GitHub](https://github.com/szc19990412/TransMIL)] 
-
 **A graph-transformer for whole slide image classification** <br>
 *Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama*<br>
 [19th May, 2022] [TMI Journal, 2022] \
@@ -100,6 +95,11 @@
 *Xiaohong Gao, Yu Qian, Alice Gao*<br>
 [4th Jul., 2021] [NextComp, 2022] \
 [[PDF](https://arxiv.org/abs/2107.01682)] [[GitHub](https://github.com/xiaohong1/COVID-ViT)] 
+
+**TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification** <br>
+*Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang*<br>
+[2nd Jun., 2021] [NeurIPS, 2021] \
+[[PDF](https://openreview.net/pdf?id=LKUfuWxajHc)] [[GitHub](https://github.com/szc19990412/TransMIL)] 
 
 **Lesion-Aware Transformers for Diabetic Retinopathy Grading** <br>
 *Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang*<br>
