@@ -397,11 +397,6 @@
 [29th Mar., 2022] [CVPR, 2022] \
 [[PDF](https://arxiv.org/abs/2203.15216)] [[GitHub](https://github.com/cwmok/C2FViT)]
 
-**Self-Supervised 2D/3D Registration for X-Ray to CT Image Fusion** <br>
-*Srikrishna Jaganathan, Maximilian Kukla, Jian Wang, Karthik Shetty, Andreas Maier*<br>
-[14th Oct., 2022] [WACV, 2023] \
-[[PDF](https://arxiv.org/abs/2210.07611)]
-
 ---
 
 ### Report Generation
