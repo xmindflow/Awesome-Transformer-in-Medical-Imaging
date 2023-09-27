@@ -220,6 +220,11 @@
 
 ### Image Reconstruction
 
+**Transformer-based Dual-domain Network for Few-view Dedicated Cardiac SPECT Image Reconstructions** <br>
+*Huidong Xie, Bo Zhou, Xiongchao Chen, Xueqi Guo, Stephanie Thorn, Yi-Hwa Liu, Ge Wang, Albert Sinusas, Chi Liu*<br>
+[18th July., 2023] [MICCAI, 2023] \
+[[PDF](https://arxiv.org/abs/2307.09624)] 
+
 **TransCT: Dual-path Transformer for Low Dose Computed Tomography** <br>
 *Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing*<br>
 [28th Feb., 2021] [MICCAI, 2021] \
