@@ -3,7 +3,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire:This is a collection of awesome articles about Transformer models in the medical imaging:fire::fire:
+:fire::fire:This is a collection of awesome articles about Transformer models in medical imaging :fire::fire:
+
+:loudspeaker: Our review paper published on MedIA: [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002608) :heart:
 
 :loudspeaker: Our review paper published on arXiv: [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/abs/2301.03505.pdf) :heart:
 
@@ -13,8 +15,12 @@
 @article{azad2023advances,
   title={Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review},
   author={Azad, Reza and Kazerouni, Amirhossein and Heidari, Moein and Aghdam, Ehsan Khodapanah and Molaei, Amirali and Jia, Yiwei and Jose, Abin and Roy, Rijo and Merhof, Dorit},
-  journal={arXiv preprint arXiv:2301.03505},
-  year={2023}
+  journal={Medical Image Analysis},
+  volume = {91},
+  pages={103000},
+  year={2024},
+  issn = {1361-8415},
+  publisher={Elsevier}
 }
 ```
 
